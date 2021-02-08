@@ -4,7 +4,7 @@
 .phb p+p { margin-top: .2em; }
 .phb .footnote { color: #d4ad6d; font-weight: bold;; }
 .phb .pageNumber { color: #d4ad6d; font-weight: bold;; }
-.phb:after { background-image: url(https://raw.githubusercontent.com/Tougher-Together-DnD/invasion-of-eirinn/main/campaign-guide-images/WEBP/page-border-bottom.webp); }
+.phb:after { background-image: url(https://raw.githubusercontent.com/Tougher-Together-DnD/invasion-of-eirinn/main/Images/footer.png); }
 .phb blockquote { margin-top: 1em; margin-bottom: 2em;}
 .phb h1, .phb h2, .phb h3, .phb h4 {
     color: #336600;
@@ -12,7 +12,7 @@
 </style>
 
 <img 
-  src='https://raw.githubusercontent.com/Tougher-Together-DnD/invasion-of-eirinn/main/campaign-guide-images/WEBP/homebrew-cover-v1.webp' 
+  src='https://github.com/Tougher-Together-DnD/invasion-of-eirinn/blob/main/Images/homebrew-cover-v1.png?raw=true' 
   style='position:absolute;top:0px;left:0px;width:816px;'/>
   
 <img 
@@ -277,11 +277,11 @@ In order of arrival to The Green Isles.
 When they arrived the Firbolg were composed of Hill Giants, Verbeeg and other giant-kin. These refugees revolted against The Ordning of an ancient Jotun empire.
 
 <img 
-  src='https://raw.githubusercontent.com/Tougher-Together-DnD/invasion-of-eirinn/main/campaign-guide-images/WEBP/fomorians-top-right.webp' 
+  src='https://github.com/Tougher-Together-DnD/invasion-of-eirinn/blob/main/Images/fomorians-top-right.png?raw=true' 
   style='position:absolute;top:0px;left:0px;width:816px' />
   
 <img 
-  src='https://raw.githubusercontent.com/Tougher-Together-DnD/invasion-of-eirinn/main/campaign-guide-images/WEBP/top-right-stain.webp' 
+  src='https://github.com/Tougher-Together-DnD/common-assets/blob/main/images/homebrewery/default-paper-stains/top-right-corner.png?raw=true' 
   style='position:absolute;top:0px;left:0px;width:916px' />
 
   <div class='pageNumber auto'></div>
@@ -380,11 +380,11 @@ Also because a leader may inadvertly make promise backed by their people, some m
 All the races, even most Orcs, are keen to keeping The Tenets, less The Isles strike one dead. The Loyalist, being the newest to arrive to The Isles consider the taboos and Tenets polite superstition. Unaware of their real power.
 
 <img 
-  src='https://raw.githubusercontent.com/Tougher-Together-DnD/invasion-of-eirinn/main/campaign-guide-images/WEBP/twilight-of-gods-top.webp' 
+  src='https://github.com/Tougher-Together-DnD/invasion-of-eirinn/blob/main/Images/twilight-of-gods-top.png?raw=true' 
   style='position:absolute;top:0px;left:0px;width:816px' />
   
 <img 
-  src='https://raw.githubusercontent.com/Tougher-Together-DnD/invasion-of-eirinn/main/campaign-guide-images/WEBP/top-stain.webp' 
+  src='https://github.com/Tougher-Together-DnD/common-assets/blob/main/images/homebrewery/default-paper-stains/top.png?raw=true' 
   style='position:absolute;top:0px;left:0px;width:916px' />
 
 <div class='pageNumber auto'></div>
@@ -503,7 +503,7 @@ The day traditionally marked the onset of winter. At the end of *Ivy Moon*. The 
 
 Some wild Fey, theirs emotions mirroring the changing times, would become inconsolable, even dark, or viciously hungry. One might disguise themselves in monstrous garb to trick the Fey into looking for an easier meal. This is also when the veil between the Other worlds is thin. Travelers from the Shadowfell might arrive in town, or vice versa.
 
-<img src='https://raw.githubusercontent.com/Tougher-Together-DnD/invasion-of-eirinn/main/campaign-guide-images/WEBP/calendar-square.webp' style='position:absolute; object-fit: contain; height:350px;bottom:15px;right:30px;width:375px;mix-blend-mode:darken' />
+<img src='https://github.com/Tougher-Together-DnD/invasion-of-eirinn/blob/main/Images/calendar-square.png?raw=true' style='position:absolute; object-fit: contain; height:350px;bottom:15px;right:30px;width:375px;mix-blend-mode:darken' />
 
 <div class='pageNumber auto'></div>
 <div class='footnote'>AOWES SI CALENDAR</div>
@@ -558,7 +558,7 @@ Is the offspring of Danu and Lathander and a Deity in his own right. Yet he choo
  - Brigid, daughters of Fomorian sea goddess Umberlee.
  - Arawn, daughters of The Morrigan.
  
-<img src='https://raw.githubusercontent.com/Tougher-Together-DnD/invasion-of-eirinn/main/campaign-guide-images/WEBP/goddess-square.webp' style='position:absolute; object-fit: contain; height:435px;bottom:30px;right:30px;width:375px;mix-blend-mode:darken' />
+<img src='https://github.com/Tougher-Together-DnD/invasion-of-eirinn/blob/main/Images/goddess-square.png?raw=true' style='position:absolute; object-fit: contain; height:435px;bottom:30px;right:30px;width:375px;mix-blend-mode:darken' />
  
 <div class='pageNumber auto'></div>
 <div class='footnote'>KELTIC PANTHEON</div>
@@ -651,11 +651,11 @@ Despite his injury and advancing age, the burly figure Eliander is a local celeb
 Unknown by Unknown Artist taken from Wallpaperwikis.com
 
 <img 
-  src='https://raw.githubusercontent.com/Tougher-Together-DnD/invasion-of-eirinn/main/campaign-guide-images/WEBP/music-for-dragon-bottom.webp' 
+  src='https://github.com/Tougher-Together-DnD/invasion-of-eirinn/blob/main/Images/music-for-dragon-bottom.png?raw=true' 
   style='position:absolute;top:658px;left:0px;width:816px' />
   
 <img 
-  src='https://raw.githubusercontent.com/Tougher-Together-DnD/invasion-of-eirinn/main/campaign-guide-images/WEBP/bottom-stain.webp' 
+  src='https://github.com/Tougher-Together-DnD/common-assets/blob/main/images/homebrewery/default-paper-stains/bottom.png?raw=true' 
   style='position:absolute;top:0px;left:0px;width:916px' />
 
 <div class='pageNumber auto'></div>
@@ -686,11 +686,11 @@ The Order of the Gauntlet
 "Lugh attacks the Fomor Army" by Jim Fitzpatrick
 
 <img 
-  src='https://raw.githubusercontent.com/Tougher-Together-DnD/invasion-of-eirinn/main/campaign-guide-images/WEBP/lugh-attacks-right.webp' 
+  src='https://github.com/Tougher-Together-DnD/invasion-of-eirinn/blob/main/Images/lugh-attacks-right.png?raw=true' 
   style='position:absolute;top:0px;left:0px;width:816px' />
   
 <img 
-  src='https://raw.githubusercontent.com/Tougher-Together-DnD/invasion-of-eirinn/main/campaign-guide-images/WEBP/right-stain.webp' 
+  src='https://github.com/Tougher-Together-DnD/common-assets/blob/main/images/homebrewery/default-paper-stains/left-column.png?raw=true' 
   style='position:absolute;top:0px;left:0px;width:916px' />
 
 <div class='pageNumber auto'></div>
