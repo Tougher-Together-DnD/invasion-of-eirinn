@@ -1,0 +1,19 @@
+{
+    "name": "Magic-Portal",
+    "showplayers": true,
+    "id": "-Mk8cqVY2CCZAH8b6nVD",
+    "items": {
+        "-Mk8cqVbigZ4qQDANg_4": {
+            "id": "-Mk8cqVbigZ4qQDANg_4",
+            "name": "set statusmarkers|=blue bar1_max|-MkLl6mezunoHSyQycEp"
+        },
+        "-Mk99vT4vL-Mq6BMXx6w": {
+            "id": "-Mk99vT4vL-Mq6BMXx6w",
+            "name": "set statusmarkers|=red bar1_max|-MkLoG8qx--HBVYvtyMV"
+        },
+        "-MkLuiZxB1h5zjDX67Hw": {
+            "id": "-MkLuiZxB1h5zjDX67Hw",
+            "name": "set statusmarkers|=green bar1_max|-MkLu6GAGoyQ3vGEhvoz"
+        }
+    }
+}
