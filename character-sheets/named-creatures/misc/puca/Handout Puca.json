@@ -1,0 +1,14 @@
+{
+    "schema_version": 3,
+    "type": "handout",
+    "handout": {
+        "archived": false,
+        "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/invasion-of-eirinn/main/character-sheets/named-creatures/misc/puca/puca-portrait.png",
+        "controlledby": "",
+        "inplayerjournals": "",
+        "name": "Handout: Puca",
+        "tags": "[]",
+        "gmnotes": "%3Cp%3E%3Cimg%20src%3D%22https%3A//imgsrv.roll20.net/%3Fsrc%3Dhttps%253A//raw.githubusercontent.com/Tougher-Together-DnD/invasion-of-eirinn/main/character-sheets/named-creatures/misc/puca/puca-visage-portrait.png%22%20alt%3D%22https%3A//raw.githubusercontent.com/Tougher-Together-DnD/invasion-of-eirinn/main/character-sheets/named-creatures/misc/puca/puca-visage-portrait.png%22%20class%3D%22userscript-transparent%22%3E%3C/p%3E",
+        "notes": "%3Cp%3E%3Cimg%20src%3D%22https%3A//imgsrv.roll20.net/%3Fsrc%3Dhttps%253A//raw.githubusercontent.com/Tougher-Together-DnD/invasion-of-eirinn/main/character-sheets/named-creatures/misc/puca/puca-humans-portrait.png%22%20alt%3D%22https%3A//raw.githubusercontent.com/Tougher-Together-DnD/invasion-of-eirinn/main/character-sheets/named-creatures/misc/puca/puca-humans-portrait.png%22%20class%3D%22userscript-transparent%22%3E%3C/p%3E"
+    }
+}

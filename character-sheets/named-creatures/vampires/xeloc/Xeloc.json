@@ -1,0 +1,2094 @@
+{
+    "schema_version": 3,
+    "type": "character",
+    "character": {
+        "oldId": "-Ml7_9Vc7odx7BELhZCq",
+        "name": "Xeloc",
+        "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/invasion-of-eirinn/main/character-sheets/named-creatures/vampires/xeloc-token.png",
+        "bio": "Handout%3A%20%3Ca%20href%3D%22http%3A//journal.roll20.net/handout/-Ml7stVS-Wgvs_gRBHaE%22%3EHandout%3A%20Xeloc%3C/a%3E%3Cbr%3E",
+        "gmnotes": "%3Cp%3E%3Cbr%3E%3C/p%3E",
+        "defaulttoken": "{\"left\":1365,\"top\":175,\"width\":70,\"height\":70,\"imgsrc\":\"https://raw.githubusercontent.com/Tougher-Together-DnD/invasion-of-eirinn/main/character-sheets/named-creatures/vampires/xeloc-token.png\",\"page_id\":\"-Ml7FbArPnUsWmJlhdWF\",\"layer\":\"objects\",\"name\":\"Xeloc\",\"represents\":\"-Ml7_9Vc7odx7BELhZCq\",\"bar1_value\":\"144\",\"bar1_max\":\"144\",\"bar2_value\":16,\"bar2_link\":\"-Ml7_9XdUdmyA1Q56Ekf\",\"bar3_max\":\"0\",\"bar3_num_permission\":\"everyone\",\"showname\":true,\"showplayers_bar3\":true,\"sides\":\"https%3A//raw.githubusercontent.com/Tougher-Together-DnD/invasion-of-eirinn/main/character-sheets/named-creatures/vampires/vampire-bat-token.png|https%3A//raw.githubusercontent.com/Tougher-Together-DnD/invasion-of-eirinn/main/character-sheets/named-creatures/vampires/vampire-mist-token.png|https%3A//raw.githubusercontent.com/Tougher-Together-DnD/invasion-of-eirinn/main/character-sheets/named-creatures/vampires/ineca-sufocan-token.png|https%3A//raw.githubusercontent.com/Tougher-Together-DnD/invasion-of-eirinn/main/character-sheets/named-creatures/vampires/xeloc-token.png|https%3A//raw.githubusercontent.com/Tougher-Together-DnD/invasion-of-eirinn/main/character-sheets/named-creatures/vampires/xeloc-healed-token.png\",\"currentSide\":3,\"lastmove\":\"805,525\",\"dim_light_opacity\":\"0.75\"}",
+        "tags": "[]",
+        "controlledby": "",
+        "inplayerjournals": "",
+        "attribs": [
+            {
+                "name": "version",
+                "current": 4.21,
+                "max": "",
+                "id": "-Ml7_9XGaKHVyRzNmWE5"
+            },
+            {
+                "name": "global_skill_mod",
+                "current": "",
+                "max": "",
+                "id": "-Ml7_9XILdR17HezK_f6"
+            },
+            {
+                "name": "global_save_mod",
+                "current": "",
+                "max": "",
+                "id": "-Ml7_9XJGbyvSjSfm9eX"
+            },
+            {
+                "name": "global_attack_mod",
+                "current": "",
+                "max": "",
+                "id": "-Ml7_9XJGbyvSjSfm9eY"
+            },
+            {
+                "name": "global_damage_mod_roll",
+                "current": "",
+                "max": "",
+                "id": "-Ml7_9XKPdUso1NQcjVa"
+            },
+            {
+                "name": "global_damage_mod_crit",
+                "current": "",
+                "max": "",
+                "id": "-Ml7_9XLmLaq2iaD2p39"
+            },
+            {
+                "name": "global_damage_mod_type",
+                "current": "",
+                "max": "",
+                "id": "-Ml7_9XMuRrp6IlekEgz"
+            },
+            {
+                "name": "armorwarningflag",
+                "current": "hide",
+                "max": "",
+                "id": "-Ml7_9XMuRrp6IlekEh-"
+            },
+            {
+                "name": "customacwarningflag",
+                "current": "hide",
+                "max": "",
+                "id": "-Ml7_9XN6Cn1ScV-TQoz"
+            },
+            {
+                "name": "ac",
+                "current": 14,
+                "max": "",
+                "id": "-Ml7_9XOV6bSd0Gu_MMl"
+            },
+            {
+                "name": "l1mancer_status",
+                "current": "completed",
+                "max": "",
+                "id": "-Ml7_9XOV6bSd0Gu_MMm"
+            },
+            {
+                "name": "npc",
+                "current": "1",
+                "max": "",
+                "id": "-Ml7_9XP6DFaReibIbl5"
+            },
+            {
+                "name": "wtype",
+                "current": "@{whispertoggle}",
+                "max": "",
+                "id": "-Ml7_9XP6DFaReibIbl6"
+            },
+            {
+                "name": "dtype",
+                "current": "pick",
+                "max": "",
+                "id": "-Ml7_9XQguy8-nO0WIBp"
+            },
+            {
+                "name": "dndstyling",
+                "current": "on",
+                "max": "",
+                "id": "-Ml7_9XRd9iiqi2yomlM"
+            },
+            {
+                "name": "drop_category",
+                "current": "",
+                "max": "",
+                "id": "-Ml7_9XRd9iiqi2yomlN"
+            },
+            {
+                "name": "drop_name",
+                "current": "",
+                "max": "",
+                "id": "-Ml7_9XSYHLjZFKtSrA5"
+            },
+            {
+                "name": "drop_data",
+                "current": "",
+                "max": "",
+                "id": "-Ml7_9XSYHLjZFKtSrA6"
+            },
+            {
+                "name": "drop_content",
+                "current": "",
+                "max": "",
+                "id": "-Ml7_9XT5_92dXF0mQfx"
+            },
+            {
+                "name": "npc_options-flag",
+                "current": "0",
+                "max": "",
+                "id": "-Ml7_9XUDP25cZhmhwsu"
+            },
+            {
+                "name": "npc_name",
+                "current": "Vampire",
+                "max": "",
+                "id": "-Ml7_9XUDP25cZhmhwsv"
+            },
+            {
+                "name": "strength_base",
+                "current": "18",
+                "max": "",
+                "id": "-Ml7_9XVK0N3OyzBs1im"
+            },
+            {
+                "name": "dexterity_base",
+                "current": "18",
+                "max": "",
+                "id": "-Ml7_9XWloekJRLaGHQg"
+            },
+            {
+                "name": "constitution_base",
+                "current": "18",
+                "max": "",
+                "id": "-Ml7_9XWloekJRLaGHQh"
+            },
+            {
+                "name": "intelligence_base",
+                "current": "17",
+                "max": "",
+                "id": "-Ml7_9XX366veED6mLkW"
+            },
+            {
+                "name": "wisdom_base",
+                "current": "15",
+                "max": "",
+                "id": "-Ml7_9XZzdRv7ck4X2gU"
+            },
+            {
+                "name": "charisma_base",
+                "current": "18",
+                "max": "",
+                "id": "-Ml7_9XZzdRv7ck4X2gV"
+            },
+            {
+                "name": "npc_condition_immunities",
+                "current": "",
+                "max": "",
+                "id": "-Ml7_9XZzdRv7ck4X2gW"
+            },
+            {
+                "name": "npc_immunities",
+                "current": "",
+                "max": "",
+                "id": "-Ml7_9XZzdRv7ck4X2gX"
+            },
+            {
+                "name": "npc_languages",
+                "current": "the languages it knew in life",
+                "max": "",
+                "id": "-Ml7_9X_VJDcdJilOllg"
+            },
+            {
+                "name": "npc_resistances",
+                "current": "necrotic; bludgeoning, piercing, and slashing from nonmagical attacks",
+                "max": "",
+                "id": "-Ml7_9X_VJDcdJilOllh"
+            },
+            {
+                "name": "npc_speed",
+                "current": "30 ft.",
+                "max": "",
+                "id": "-Ml7_9Xa_HhyOA7hhy_e"
+            },
+            {
+                "name": "token_size",
+                "current": "1",
+                "max": "",
+                "id": "-Ml7_9Xa_HhyOA7hhy_f"
+            },
+            {
+                "name": "npc_vulnerabilities",
+                "current": "",
+                "max": "",
+                "id": "-Ml7_9XbprufuIS-Z1FA"
+            },
+            {
+                "name": "npc_challenge",
+                "current": "13",
+                "max": "",
+                "id": "-Ml7_9XbprufuIS-Z1FB"
+            },
+            {
+                "name": "npc_xp",
+                "current": 10000,
+                "max": "",
+                "id": "-Ml7_9XcMT3ynkHOHo85"
+            },
+            {
+                "name": "npc_type",
+                "current": "Medium undead (shapechanger), lawful evil",
+                "max": "",
+                "id": "-Ml7_9XcMT3ynkHOHo86"
+            },
+            {
+                "name": "npc_ac",
+                "current": "16",
+                "max": "",
+                "id": "-Ml7_9XdUdmyA1Q56Ekf"
+            },
+            {
+                "name": "npc_actype",
+                "current": "natural armor",
+                "max": "",
+                "id": "-Ml7_9XdUdmyA1Q56Ekg"
+            },
+            {
+                "name": "hp",
+                "current": "144",
+                "max": "144",
+                "id": "-Ml7_9Xe0M9Fzep22V2f"
+            },
+            {
+                "name": "npc_hpformula",
+                "current": "17d8 + 68",
+                "max": "",
+                "id": "-Ml7_9Xe0M9Fzep22V2g"
+            },
+            {
+                "name": "npc_senses",
+                "current": "darkvision 120 ft., passive Perception 17",
+                "max": "",
+                "id": "-Ml7_9Xe0M9Fzep22V2h"
+            },
+            {
+                "name": "npc_str_save_base",
+                "current": "",
+                "max": "",
+                "id": "-Ml7_9Xf0HrMBqivBKOI"
+            },
+            {
+                "name": "npc_dex_save_base",
+                "current": 9,
+                "max": "",
+                "id": "-Ml7_9Xf0HrMBqivBKOJ"
+            },
+            {
+                "name": "npc_con_save_base",
+                "current": "",
+                "max": "",
+                "id": "-Ml7_9XgfwZRoKu3lnHe"
+            },
+            {
+                "name": "npc_int_save_base",
+                "current": "",
+                "max": "",
+                "id": "-Ml7_9XgfwZRoKu3lnHf"
+            },
+            {
+                "name": "npc_wis_save_base",
+                "current": 7,
+                "max": "",
+                "id": "-Ml7_9XgfwZRoKu3lnHg"
+            },
+            {
+                "name": "npc_cha_save_base",
+                "current": 9,
+                "max": "",
+                "id": "-Ml7_9XhZ4_mQzYG4QpX"
+            },
+            {
+                "name": "npc_acrobatics_base",
+                "current": "",
+                "max": "",
+                "id": "-Ml7_9XhZ4_mQzYG4QpY"
+            },
+            {
+                "name": "npc_animal_handling_base",
+                "current": "",
+                "max": "",
+                "id": "-Ml7_9XiCr6dFnrlaSZ6"
+            },
+            {
+                "name": "npc_arcana_base",
+                "current": "",
+                "max": "",
+                "id": "-Ml7_9XiCr6dFnrlaSZ7"
+            },
+            {
+                "name": "npc_athletics_base",
+                "current": "",
+                "max": "",
+                "id": "-Ml7_9XiCr6dFnrlaSZ8"
+            },
+            {
+                "name": "npc_deception_base",
+                "current": "",
+                "max": "",
+                "id": "-Ml7_9Xj-fetPvwOa8tq"
+            },
+            {
+                "name": "npc_history_base",
+                "current": "",
+                "max": "",
+                "id": "-Ml7_9Xj-fetPvwOa8tr"
+            },
+            {
+                "name": "npc_insight_base",
+                "current": "",
+                "max": "",
+                "id": "-Ml7_9Xj-fetPvwOa8ts"
+            },
+            {
+                "name": "npc_intimidation_base",
+                "current": "",
+                "max": "",
+                "id": "-Ml7_9XkZ7NXqruvKHdP"
+            },
+            {
+                "name": "npc_investigation_base",
+                "current": "",
+                "max": "",
+                "id": "-Ml7_9XkZ7NXqruvKHdQ"
+            },
+            {
+                "name": "npc_medicine_base",
+                "current": "",
+                "max": "",
+                "id": "-Ml7_9XlPwAl_Z-DSw91"
+            },
+            {
+                "name": "npc_nature_base",
+                "current": "",
+                "max": "",
+                "id": "-Ml7_9XlPwAl_Z-DSw92"
+            },
+            {
+                "name": "npc_perception_base",
+                "current": 7,
+                "max": "",
+                "id": "-Ml7_9XmpkW-l4v1q_pl"
+            },
+            {
+                "name": "npc_performance_base",
+                "current": "",
+                "max": "",
+                "id": "-Ml7_9XmpkW-l4v1q_pm"
+            },
+            {
+                "name": "npc_persuasion_base",
+                "current": "",
+                "max": "",
+                "id": "-Ml7_9Xn3lUzYbWQV1mz"
+            },
+            {
+                "name": "npc_religion_base",
+                "current": "",
+                "max": "",
+                "id": "-Ml7_9Xn3lUzYbWQV1n-"
+            },
+            {
+                "name": "npc_sleight_of_hand_base",
+                "current": "",
+                "max": "",
+                "id": "-Ml7_9Xn3lUzYbWQV1n0"
+            },
+            {
+                "name": "npc_stealth_base",
+                "current": 9,
+                "max": "",
+                "id": "-Ml7_9Xoq5xcZlufxoMZ"
+            },
+            {
+                "name": "npc_survival_base",
+                "current": "",
+                "max": "",
+                "id": "-Ml7_9Xoq5xcZlufxoM_"
+            },
+            {
+                "name": "npc_legendary_actions",
+                "current": "3",
+                "max": "",
+                "id": "-Ml7_9Xoq5xcZlufxoMa"
+            },
+            {
+                "name": "npc_legendary_actions_desc",
+                "current": "The Vampire can take 3, choosing from the options below. Only one legendary option can be used at a time and only at the end of another creature's turn. The Vampire regains spent legendary actions at the start of its turn.",
+                "max": "",
+                "id": "-Ml7_9XpujUEaszcrWLg"
+            },
+            {
+                "name": "repeating_npcaction_-LcBa7ov41C9QWA7NZBo_npc_options-flag",
+                "current": "0",
+                "max": "",
+                "id": "-Ml7_9XpujUEaszcrWLh"
+            },
+            {
+                "name": "repeating_npcaction_-LcBa7ov41C9QWA7NZBo_name",
+                "current": "Multiattack (Vampire Form Only)",
+                "max": "",
+                "id": "-Ml7_9XpujUEaszcrWLi"
+            },
+            {
+                "name": "repeating_npcaction_-LcBa7ov41C9QWA7NZBo_description",
+                "current": "The vampire makes two attacks, only one of which can be a bite attack.",
+                "max": "",
+                "id": "-Ml7_9XqewNtR6W_K-by"
+            },
+            {
+                "name": "repeating_npcaction_-LcBa7ov41C9QWA7NZBp_npc_options-flag",
+                "current": "0",
+                "max": "",
+                "id": "-Ml7_9XqewNtR6W_K-bz"
+            },
+            {
+                "name": "repeating_npcaction_-LcBa7ov41C9QWA7NZBp_name",
+                "current": "Unarmed Strike (Vampire Form Only)",
+                "max": "",
+                "id": "-Ml7_9XrOze4-Kp9ESh9"
+            },
+            {
+                "name": "repeating_npcaction_-LcBa7ov41C9QWA7NZBp_description",
+                "current": "Instead of dealing damage, the vampire can grapple the target, escape DC 18",
+                "max": "",
+                "id": "-Ml7_9XrOze4-Kp9EShA"
+            },
+            {
+                "name": "repeating_npcaction_-LcBa7ov41C9QWA7NZBp_attack_display_flag",
+                "current": "{{attack=1}}",
+                "max": "",
+                "id": "-Ml7_9XsMHFr6Uzmc6ZY"
+            },
+            {
+                "name": "repeating_npcaction_-LcBa7ov41C9QWA7NZBp_attack_flag",
+                "current": "on",
+                "max": "",
+                "id": "-Ml7_9XsMHFr6Uzmc6ZZ"
+            },
+            {
+                "name": "repeating_npcaction_-LcBa7ov41C9QWA7NZBp_attack_options",
+                "current": "{{attack=1}}",
+                "max": "",
+                "id": "-Ml7_9XsMHFr6Uzmc6Z_"
+            },
+            {
+                "name": "repeating_npcaction_-LcBa7ov41C9QWA7NZBp_attack_damagetype",
+                "current": "bludgeoning",
+                "max": "",
+                "id": "-Ml7_9XtEFAcj_8n5NOZ"
+            },
+            {
+                "name": "repeating_npcaction_-LcBa7ov41C9QWA7NZBp_attack_damage",
+                "current": "1d8 + 4",
+                "max": "",
+                "id": "-Ml7_9XuB6slAMn0MrVU"
+            },
+            {
+                "name": "repeating_npcaction_-LcBa7ov41C9QWA7NZBp_attack_tohit",
+                "current": "9",
+                "max": "",
+                "id": "-Ml7_9XuB6slAMn0MrVV"
+            },
+            {
+                "name": "repeating_npcaction_-LcBa7ov41C9QWA7NZBp_attack_range",
+                "current": "5 ft.",
+                "max": "",
+                "id": "-Ml7_9XvCTwgRJiSI8sE"
+            },
+            {
+                "name": "repeating_npcaction_-LcBa7ov41C9QWA7NZBp_attack_target",
+                "current": "one creature",
+                "max": "",
+                "id": "-Ml7_9XvCTwgRJiSI8sF"
+            },
+            {
+                "name": "repeating_npcaction_-LcBa7ov41C9QWA7NZBp_attack_type",
+                "current": "Melee",
+                "max": "",
+                "id": "-Ml7_9Xwjs0cWaQ6l2ce"
+            },
+            {
+                "name": "repeating_npcaction_-LcBa7ov41C9QWA7NZBq_npc_options-flag",
+                "current": "0",
+                "max": "",
+                "id": "-Ml7_9Xwjs0cWaQ6l2cf"
+            },
+            {
+                "name": "repeating_npcaction_-LcBa7ov41C9QWA7NZBq_name",
+                "current": "Bite (Bat or Vampire Form Only)",
+                "max": "",
+                "id": "-Ml7_9Xwjs0cWaQ6l2cg"
+            },
+            {
+                "name": "repeating_npcaction_-LcBa7ov41C9QWA7NZBq_description",
+                "current": "The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and the vampire regains hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0. A humanoid slain in this way and then buried in the ground rises the following night as a vampire spawn under the vampire's control",
+                "max": "",
+                "id": "-Ml7_9XxryJuVAh3im5M"
+            },
+            {
+                "name": "repeating_npcaction_-LcBa7ov41C9QWA7NZBq_attack_display_flag",
+                "current": "{{attack=1}}",
+                "max": "",
+                "id": "-Ml7_9XyPsJIMWij6CkB"
+            },
+            {
+                "name": "repeating_npcaction_-LcBa7ov41C9QWA7NZBq_attack_flag",
+                "current": "on",
+                "max": "",
+                "id": "-Ml7_9XyPsJIMWij6CkC"
+            },
+            {
+                "name": "repeating_npcaction_-LcBa7ov41C9QWA7NZBq_attack_options",
+                "current": "{{attack=1}}",
+                "max": "",
+                "id": "-Ml7_9Xz5FUmdRwdGK_C"
+            },
+            {
+                "name": "repeating_npcaction_-LcBa7ov41C9QWA7NZBq_attack_damagetype",
+                "current": "piercing",
+                "max": "",
+                "id": "-Ml7_9Xz5FUmdRwdGK_D"
+            },
+            {
+                "name": "repeating_npcaction_-LcBa7ov41C9QWA7NZBq_attack_damage",
+                "current": "1d6 + 4",
+                "max": "",
+                "id": "-Ml7_9Xz5FUmdRwdGK_E"
+            },
+            {
+                "name": "repeating_npcaction_-LcBa7ov41C9QWA7NZBq_attack_tohit",
+                "current": "9",
+                "max": "",
+                "id": "-Ml7_9Y-Y1PQk0RgYE3D"
+            },
+            {
+                "name": "repeating_npcaction_-LcBa7ov41C9QWA7NZBq_attack_range",
+                "current": "5 ft.",
+                "max": "",
+                "id": "-Ml7_9Y-Y1PQk0RgYE3E"
+            },
+            {
+                "name": "repeating_npcaction_-LcBa7ov41C9QWA7NZBq_attack_target",
+                "current": "one willing creature, or a creature that is grappled by the vampire, incapacitated, or restrained",
+                "max": "",
+                "id": "-Ml7_9Y0kORHIiBKhZ45"
+            },
+            {
+                "name": "repeating_npcaction_-LcBa7ov41C9QWA7NZBq_attack_type",
+                "current": "Melee",
+                "max": "",
+                "id": "-Ml7_9Y1SQrw0FEUVMYQ"
+            },
+            {
+                "name": "repeating_npcaction_-LcBa7ov41C9QWA7NZBq_attack_damage2",
+                "current": "3d6",
+                "max": "",
+                "id": "-Ml7_9Y1SQrw0FEUVMYR"
+            },
+            {
+                "name": "repeating_npcaction_-LcBa7ov41C9QWA7NZBq_attack_damagetype2",
+                "current": "necrotic",
+                "max": "",
+                "id": "-Ml7_9Y2MhESJEa5lMWd"
+            },
+            {
+                "name": "repeating_npcaction_-LcBa7ov41C9QWA7NZBr_npc_options-flag",
+                "current": "0",
+                "max": "",
+                "id": "-Ml7_9Y2MhESJEa5lMWe"
+            },
+            {
+                "name": "repeating_npcaction_-LcBa7ov41C9QWA7NZBr_name",
+                "current": "Charm",
+                "max": "",
+                "id": "-Ml7_9Y2MhESJEa5lMWf"
+            },
+            {
+                "name": "repeating_npcaction_-LcBa7ov41C9QWA7NZBr_description",
+                "current": "The vampire targets one humanoid it can see within 30 ft. of it. If the target can see the vampire, the target must succeed on a DC 17 Wisdom saving throw against this magic or be charmed by the vampire. The charmed target regards the vampire as a trusted friend to be heeded and protected. Although the target isn't under the vampire's control, it takes the vampire's requests or actions in the most favorable way it can, and it is a willing target for the vampire's bite attack.\n Each time the vampire or the vampire's companions do anything harmful to the target, it can repeat the saving throw, ending the effect on itself on a success. Otherwise, the effect lasts 24 hours or until the vampire is destroyed, is on a different plane of existence than the target, or takes a bonus action to end the effect.",
+                "max": "",
+                "id": "-Ml7_9Y3IyqRoGbTtjN1"
+            },
+            {
+                "name": "repeating_npcaction_-LcBa7ov41C9QWA7NZBs_npc_options-flag",
+                "current": "0",
+                "max": "",
+                "id": "-Ml7_9Y3IyqRoGbTtjN2"
+            },
+            {
+                "name": "repeating_npcaction_-LcBa7ov41C9QWA7NZBs_name",
+                "current": "Children of the Night (1/Day)",
+                "max": "",
+                "id": "-Ml7_9Y4irz_xAfNkmqt"
+            },
+            {
+                "name": "repeating_npcaction_-LcBa7ov41C9QWA7NZBs_description",
+                "current": "The vampire magically calls 2d4 swarms of bats or rats, provided that the sun isn't up. While outdoors, the vampire can call 3d6 wolves instead. The called creatures arrive in 1d4 rounds, acting as allies of the vampire and obeying its spoken commands. The beasts remain for 1 hour, until the vampire dies, or until the vampire dismisses them as a bonus action.",
+                "max": "",
+                "id": "-Ml7_9Y4irz_xAfNkmqu"
+            },
+            {
+                "name": "repeating_npcaction-l_-LcBa7ov41C9QWA7NZBt_npc_options-flag",
+                "current": "0",
+                "max": "",
+                "id": "-Ml7_9Y4irz_xAfNkmqv"
+            },
+            {
+                "name": "repeating_npcaction-l_-LcBa7ov41C9QWA7NZBt_name",
+                "current": "Move",
+                "max": "",
+                "id": "-Ml7_9Y5n_UgIzFEcAJG"
+            },
+            {
+                "name": "repeating_npcaction-l_-LcBa7ov41C9QWA7NZBt_description",
+                "current": "The vampire moves up to its speed without provoking opportunity attacks.",
+                "max": "",
+                "id": "-Ml7_9Y5n_UgIzFEcAJH"
+            },
+            {
+                "name": "repeating_npcaction-l_-LcBa7ov41C9QWA7NZBu_npc_options-flag",
+                "current": "0",
+                "max": "",
+                "id": "-Ml7_9Y64kTnXChTZfO0"
+            },
+            {
+                "name": "repeating_npcaction-l_-LcBa7ov41C9QWA7NZBu_name",
+                "current": "Unarmed Strike",
+                "max": "",
+                "id": "-Ml7_9Y64kTnXChTZfO1"
+            },
+            {
+                "name": "repeating_npcaction-l_-LcBa7ov41C9QWA7NZBu_description",
+                "current": "The vampire makes one unarmed strike.",
+                "max": "",
+                "id": "-Ml7_9Y64kTnXChTZfO2"
+            },
+            {
+                "name": "repeating_npcaction-l_-LcBa7ov41C9QWA7NZBv_npc_options-flag",
+                "current": "0",
+                "max": "",
+                "id": "-Ml7_9Y9-25ezuWp6ah6"
+            },
+            {
+                "name": "repeating_npcaction-l_-LcBa7ov41C9QWA7NZBv_name",
+                "current": "Bite (Costs 2 Actions)",
+                "max": "",
+                "id": "-Ml7_9Y9-25ezuWp6ah7"
+            },
+            {
+                "name": "repeating_npcaction-l_-LcBa7ov41C9QWA7NZBv_description",
+                "current": "The vampire makes one bite attack.",
+                "max": "",
+                "id": "-Ml7_9YA_UgDkZEAUHNs"
+            },
+            {
+                "name": "repeating_npctrait_-LcBa7ov41C9QWA7NZBw_name",
+                "current": "Shapechanger.",
+                "max": "",
+                "id": "-Ml7_9YA_UgDkZEAUHNt"
+            },
+            {
+                "name": "repeating_npctrait_-LcBa7ov41C9QWA7NZBw_desc",
+                "current": "If the vampire isn't in sun light or running water, it can use its action to polymorph into a Tiny bat or a Medium cloud of mist, or back into its true form.  \nWhile in bat form, the vampire can't speak, its walking speed is 5 feet, and it has a flying speed of 30 feet. Its statistics, other than its size and speed, are unchanged. Anything it is wearing transforms with it, but nothing it is carrying does. It reverts to its true form if it dies.  \nWhile in mist form, the vampire can't take any actions, speak, or manipulate objects. It is weightless, has a flying speed of 20 feet, can hover, and can enter a hostile creature's space and stop there. In addition, if air can pass through a space, the mist can do so without squeezing, and it can't pass through water. It has advantage on Strength, Dexterity, and Constitution saving throws, and it is immune to all nonmagical damage, except the damage it takes from sunlight.",
+                "max": "",
+                "id": "-Ml7_9YA_UgDkZEAUHNu"
+            },
+            {
+                "name": "repeating_npctrait_-LcBa7ov41C9QWA7NZBx_name",
+                "current": "Legendary Resistance (3/Day).",
+                "max": "",
+                "id": "-Ml7_9YB0zo1WspfS9yE"
+            },
+            {
+                "name": "repeating_npctrait_-LcBa7ov41C9QWA7NZBx_desc",
+                "current": "If the vampire fails a saving throw, it can choose to succeed instead.",
+                "max": "",
+                "id": "-Ml7_9YB0zo1WspfS9yF"
+            },
+            {
+                "name": "repeating_npctrait_-LcBa7ov41C9QWA7NZBy_name",
+                "current": "Misty Escape.",
+                "max": "",
+                "id": "-Ml7_9YCMK4S913_zUnq"
+            },
+            {
+                "name": "repeating_npctrait_-LcBa7ov41C9QWA7NZBy_desc",
+                "current": "When it drops to 0 hit points outside its resting place, the vampire transforms into a cloud of mist (as in the Shapechanger trait) instead of falling unconscious, provided that it isn't in sunlight or running water. If it can't transform, it is destroyed.  \nWhile it has 0 hit points in mist form, it can't revert to its vampire form, and it must reach its resting place within 2 hours or be destroyed. Once in its resting place, it reverts to its vampire form. It is then paralyzed until it regains at least 1 hit point. After spending 1 hour in its resting place with 0 hit points, it regains 1 hit point.",
+                "max": "",
+                "id": "-Ml7_9YCMK4S913_zUnr"
+            },
+            {
+                "name": "repeating_npctrait_-LcBa7ov41C9QWA7NZBz_name",
+                "current": "Regeneration.",
+                "max": "",
+                "id": "-Ml7_9YDetZEzhUSw3TK"
+            },
+            {
+                "name": "repeating_npctrait_-LcBa7ov41C9QWA7NZBz_desc",
+                "current": "The vampire regains 20 hit points at the start of its turn if it has at least 1 hit point and isn't in sunlight or running water. If the vampire takes radiant damage or damage from holy water, this trait doesn't function at the start of the vampire's next turn.",
+                "max": "",
+                "id": "-Ml7_9YDetZEzhUSw3TL"
+            },
+            {
+                "name": "repeating_npctrait_-LcBa7ov41C9QWA7NZC-_name",
+                "current": "Spider Climb.",
+                "max": "",
+                "id": "-Ml7_9YEVbfxKV3jyts8"
+            },
+            {
+                "name": "repeating_npctrait_-LcBa7ov41C9QWA7NZC-_desc",
+                "current": "The vampire can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.",
+                "max": "",
+                "id": "-Ml7_9YEVbfxKV3jyts9"
+            },
+            {
+                "name": "repeating_npctrait_-LcBa7ov41C9QWA7NZC0_name",
+                "current": "Vampire Weaknesses.",
+                "max": "",
+                "id": "-Ml7_9YEVbfxKV3jytsA"
+            },
+            {
+                "name": "repeating_npctrait_-LcBa7ov41C9QWA7NZC0_desc",
+                "current": "The vampire has the following flaws:   \n• Forbiddance. The vampire can't enter a residence without an invitation from one of the occupants. \n• Harmed by Running Water. The vampire takes 20 acid damage if it ends its turn in running water. \n• Stake to the Heart. If a piercing weapon made of wood is driven into the vampire's heart while the vampire is incapacitated in its resting place, the vampire is paralyzed until the stake is removed. \n• Sunlight Hypersensitivity. The vampire takes 20 radiant damage when it starts its turn in sunlight. While in sunlight, it has disadvantage on attack rolls and ability checks.",
+                "max": "",
+                "id": "-Ml7_9YF2bVWQkoAIuU6"
+            },
+            {
+                "name": "pb_custom",
+                "current": 5,
+                "max": "",
+                "id": "-Ml7_9YF2bVWQkoAIuU7"
+            },
+            {
+                "name": "pb_type",
+                "current": "custom",
+                "max": "",
+                "id": "-Ml7_9YGvFVEqmxr9F1b"
+            },
+            {
+                "name": "npc_cha_save_flag",
+                "current": 2,
+                "max": "",
+                "id": "-Ml7_9YGvFVEqmxr9F1c"
+            },
+            {
+                "name": "npc_cha_save",
+                "current": 9,
+                "max": "",
+                "id": "-Ml7_9YHBz12MHbFcQb0"
+            },
+            {
+                "name": "npc_wis_save_flag",
+                "current": 1,
+                "max": "",
+                "id": "-Ml7_9YHBz12MHbFcQb1"
+            },
+            {
+                "name": "npc_wis_save",
+                "current": 7,
+                "max": "",
+                "id": "-Ml7_9YIDZJS0mdZxvP8"
+            },
+            {
+                "name": "npc_int_save_flag",
+                "current": 0,
+                "max": "",
+                "id": "-Ml7_9YIDZJS0mdZxvP9"
+            },
+            {
+                "name": "npc_int_save",
+                "current": "",
+                "max": "",
+                "id": "-Ml7_9YIDZJS0mdZxvPA"
+            },
+            {
+                "name": "npc_con_save_flag",
+                "current": 0,
+                "max": "",
+                "id": "-Ml7_9YJl3jb78Pcw59Z"
+            },
+            {
+                "name": "npc_con_save",
+                "current": "",
+                "max": "",
+                "id": "-Ml7_9YJl3jb78Pcw59_"
+            },
+            {
+                "name": "npc_dex_save_flag",
+                "current": 1,
+                "max": "",
+                "id": "-Ml7_9YJl3jb78Pcw59a"
+            },
+            {
+                "name": "npc_dex_save",
+                "current": 9,
+                "max": "",
+                "id": "-Ml7_9YK57i1svJxWq9p"
+            },
+            {
+                "name": "npc_str_save_flag",
+                "current": 0,
+                "max": "",
+                "id": "-Ml7_9YK57i1svJxWq9q"
+            },
+            {
+                "name": "npc_str_save",
+                "current": "",
+                "max": "",
+                "id": "-Ml7_9YK57i1svJxWq9r"
+            },
+            {
+                "name": "npc_saving_flag",
+                "current": 4,
+                "max": "",
+                "id": "-Ml7_9YLGehYQBeav4X8"
+            },
+            {
+                "name": "npc_survival_flag",
+                "current": 0,
+                "max": "",
+                "id": "-Ml7_9YLGehYQBeav4X9"
+            },
+            {
+                "name": "npc_survival",
+                "current": "",
+                "max": "",
+                "id": "-Ml7_9YLGehYQBeav4XA"
+            },
+            {
+                "name": "npc_stealth_flag",
+                "current": 2,
+                "max": "",
+                "id": "-Ml7_9YMNgS9aZAn3gx3"
+            },
+            {
+                "name": "npc_stealth",
+                "current": 9,
+                "max": "",
+                "id": "-Ml7_9YMNgS9aZAn3gx4"
+            },
+            {
+                "name": "npc_sleight_of_hand_flag",
+                "current": 0,
+                "max": "",
+                "id": "-Ml7_9YN-sLEhbe9OeLo"
+            },
+            {
+                "name": "npc_sleight_of_hand",
+                "current": "",
+                "max": "",
+                "id": "-Ml7_9YN-sLEhbe9OeLp"
+            },
+            {
+                "name": "npc_religion_flag",
+                "current": 0,
+                "max": "",
+                "id": "-Ml7_9YN-sLEhbe9OeLq"
+            },
+            {
+                "name": "npc_religion",
+                "current": "",
+                "max": "",
+                "id": "-Ml7_9YOvxEfh3eJq5rG"
+            },
+            {
+                "name": "npc_persuasion_flag",
+                "current": 0,
+                "max": "",
+                "id": "-Ml7_9YOvxEfh3eJq5rH"
+            },
+            {
+                "name": "npc_persuasion",
+                "current": "",
+                "max": "",
+                "id": "-Ml7_9YOvxEfh3eJq5rI"
+            },
+            {
+                "name": "npc_performance_flag",
+                "current": 0,
+                "max": "",
+                "id": "-Ml7_9YPz4Ab5zzHLoky"
+            },
+            {
+                "name": "npc_performance",
+                "current": "",
+                "max": "",
+                "id": "-Ml7_9YPz4Ab5zzHLokz"
+            },
+            {
+                "name": "npc_perception_flag",
+                "current": 1,
+                "max": "",
+                "id": "-Ml7_9YQ3jyubXS7idcb"
+            },
+            {
+                "name": "npc_perception",
+                "current": 7,
+                "max": "",
+                "id": "-Ml7_9YQ3jyubXS7idcc"
+            },
+            {
+                "name": "npc_nature_flag",
+                "current": 0,
+                "max": "",
+                "id": "-Ml7_9YRu7DJhBzWHPVc"
+            },
+            {
+                "name": "npc_nature",
+                "current": "",
+                "max": "",
+                "id": "-Ml7_9YRu7DJhBzWHPVd"
+            },
+            {
+                "name": "npc_medicine_flag",
+                "current": 0,
+                "max": "",
+                "id": "-Ml7_9YSHZfXQW9hjesX"
+            },
+            {
+                "name": "npc_medicine",
+                "current": "",
+                "max": "",
+                "id": "-Ml7_9YSHZfXQW9hjesY"
+            },
+            {
+                "name": "npc_investigation_flag",
+                "current": 0,
+                "max": "",
+                "id": "-Ml7_9YT_mAPF1jqAmTX"
+            },
+            {
+                "name": "npc_investigation",
+                "current": "",
+                "max": "",
+                "id": "-Ml7_9YT_mAPF1jqAmTY"
+            },
+            {
+                "name": "npc_intimidation_flag",
+                "current": 0,
+                "max": "",
+                "id": "-Ml7_9YUxTFWWKnbawAc"
+            },
+            {
+                "name": "npc_intimidation",
+                "current": "",
+                "max": "",
+                "id": "-Ml7_9YUxTFWWKnbawAd"
+            },
+            {
+                "name": "npc_insight_flag",
+                "current": 0,
+                "max": "",
+                "id": "-Ml7_9YUxTFWWKnbawAe"
+            },
+            {
+                "name": "npc_insight",
+                "current": "",
+                "max": "",
+                "id": "-Ml7_9YVK3wRGT5f_Z7Y"
+            },
+            {
+                "name": "npc_history_flag",
+                "current": 0,
+                "max": "",
+                "id": "-Ml7_9YVK3wRGT5f_Z7Z"
+            },
+            {
+                "name": "npc_history",
+                "current": "",
+                "max": "",
+                "id": "-Ml7_9YWweqqSla74b3q"
+            },
+            {
+                "name": "npc_deception_flag",
+                "current": 0,
+                "max": "",
+                "id": "-Ml7_9YWweqqSla74b3r"
+            },
+            {
+                "name": "npc_deception",
+                "current": "",
+                "max": "",
+                "id": "-Ml7_9YXp_GEExamFQgJ"
+            },
+            {
+                "name": "npc_athletics_flag",
+                "current": 0,
+                "max": "",
+                "id": "-Ml7_9YXp_GEExamFQgK"
+            },
+            {
+                "name": "npc_athletics",
+                "current": "",
+                "max": "",
+                "id": "-Ml7_9YYITozHob1L6_u"
+            },
+            {
+                "name": "npc_arcana_flag",
+                "current": 0,
+                "max": "",
+                "id": "-Ml7_9YYITozHob1L6_v"
+            },
+            {
+                "name": "npc_arcana",
+                "current": "",
+                "max": "",
+                "id": "-Ml7_9YZVBAogltEBNCV"
+            },
+            {
+                "name": "npc_animal_handling_flag",
+                "current": 0,
+                "max": "",
+                "id": "-Ml7_9YZVBAogltEBNCW"
+            },
+            {
+                "name": "npc_animal_handling",
+                "current": "",
+                "max": "",
+                "id": "-Ml7_9YZVBAogltEBNCX"
+            },
+            {
+                "name": "npc_acrobatics_flag",
+                "current": 0,
+                "max": "",
+                "id": "-Ml7_9Y_C8I1Htkj9hbl"
+            },
+            {
+                "name": "npc_acrobatics",
+                "current": "",
+                "max": "",
+                "id": "-Ml7_9Y_C8I1Htkj9hbm"
+            },
+            {
+                "name": "npc_skills_flag",
+                "current": 3,
+                "max": "",
+                "id": "-Ml7_9Y_C8I1Htkj9hbn"
+            },
+            {
+                "name": "strength_flag",
+                "current": 0,
+                "max": "",
+                "id": "-Ml7_9YaHFt_K1DzhyHp"
+            },
+            {
+                "name": "strength",
+                "current": 18,
+                "max": "",
+                "id": "-Ml7_9YaHFt_K1DzhyHq"
+            },
+            {
+                "name": "dexterity_flag",
+                "current": 0,
+                "max": "",
+                "id": "-Ml7_9YaHFt_K1DzhyHr"
+            },
+            {
+                "name": "dexterity",
+                "current": 18,
+                "max": "",
+                "id": "-Ml7_9YbdYAq3scbTl5X"
+            },
+            {
+                "name": "constitution_flag",
+                "current": 0,
+                "max": "",
+                "id": "-Ml7_9YbdYAq3scbTl5Y"
+            },
+            {
+                "name": "constitution",
+                "current": 18,
+                "max": "",
+                "id": "-Ml7_9YbdYAq3scbTl5Z"
+            },
+            {
+                "name": "intelligence_flag",
+                "current": 0,
+                "max": "",
+                "id": "-Ml7_9Yckedh1aEd0-F8"
+            },
+            {
+                "name": "intelligence",
+                "current": 17,
+                "max": "",
+                "id": "-Ml7_9Yckedh1aEd0-F9"
+            },
+            {
+                "name": "wisdom_flag",
+                "current": 0,
+                "max": "",
+                "id": "-Ml7_9YdVYbw7zTiUVie"
+            },
+            {
+                "name": "wisdom",
+                "current": 15,
+                "max": "",
+                "id": "-Ml7_9YeTLYlI2aGhFZe"
+            },
+            {
+                "name": "charisma_flag",
+                "current": 0,
+                "max": "",
+                "id": "-Ml7_9YfTm5c7Lki_Omu"
+            },
+            {
+                "name": "charisma",
+                "current": 18,
+                "max": "",
+                "id": "-Ml7_9YfTm5c7Lki_Omv"
+            },
+            {
+                "name": "repeating_npcaction-l_-LcBa7ov41C9QWA7NZBt_attack_tohitrange",
+                "current": "+0",
+                "max": "",
+                "id": "-Ml7_9YgGb0eOL-AJ5wC"
+            },
+            {
+                "name": "repeating_npcaction-l_-LcBa7ov41C9QWA7NZBt_attack_onhit",
+                "current": "",
+                "max": "",
+                "id": "-Ml7_9YgGb0eOL-AJ5wD"
+            },
+            {
+                "name": "repeating_npcaction-l_-LcBa7ov41C9QWA7NZBt_damage_flag",
+                "current": "",
+                "max": "",
+                "id": "-Ml7_9Yhg5enCi1YL9F7"
+            },
+            {
+                "name": "repeating_npcaction-l_-LcBa7ov41C9QWA7NZBt_attack_crit",
+                "current": "",
+                "max": "",
+                "id": "-Ml7_9Yhg5enCi1YL9F8"
+            },
+            {
+                "name": "repeating_npcaction-l_-LcBa7ov41C9QWA7NZBt_attack_crit2",
+                "current": "",
+                "max": "",
+                "id": "-Ml7_9Yhg5enCi1YL9F9"
+            },
+            {
+                "name": "repeating_npcaction-l_-LcBa7ov41C9QWA7NZBt_rollbase",
+                "current": "@{wtype}&{template:npcaction} @{npc_name_flag} {{rname=@{name}}} {{description=@{show_desc}}} @{charname_output}",
+                "max": "",
+                "id": "-Ml7_9YiGBzhwujec7Iz"
+            },
+            {
+                "name": "repeating_npcaction-l_-LcBa7ov41C9QWA7NZBu_attack_tohitrange",
+                "current": "+0",
+                "max": "",
+                "id": "-Ml7_9Yjor8W1HkDFOmg"
+            },
+            {
+                "name": "repeating_npcaction-l_-LcBa7ov41C9QWA7NZBu_attack_onhit",
+                "current": "",
+                "max": "",
+                "id": "-Ml7_9Yjor8W1HkDFOmh"
+            },
+            {
+                "name": "repeating_npcaction-l_-LcBa7ov41C9QWA7NZBu_damage_flag",
+                "current": "",
+                "max": "",
+                "id": "-Ml7_9Yjor8W1HkDFOmi"
+            },
+            {
+                "name": "repeating_npcaction-l_-LcBa7ov41C9QWA7NZBu_attack_crit",
+                "current": "",
+                "max": "",
+                "id": "-Ml7_9YkOzgeb-gI6fRD"
+            },
+            {
+                "name": "repeating_npcaction-l_-LcBa7ov41C9QWA7NZBu_attack_crit2",
+                "current": "",
+                "max": "",
+                "id": "-Ml7_9YkOzgeb-gI6fRE"
+            },
+            {
+                "name": "repeating_npcaction-l_-LcBa7ov41C9QWA7NZBu_rollbase",
+                "current": "@{wtype}&{template:npcaction} @{npc_name_flag} {{rname=@{name}}} {{description=@{show_desc}}} @{charname_output}",
+                "max": "",
+                "id": "-Ml7_9YlHB4gFYdjtkiL"
+            },
+            {
+                "name": "repeating_npcaction-l_-LcBa7ov41C9QWA7NZBv_attack_tohitrange",
+                "current": "+0",
+                "max": "",
+                "id": "-Ml7_9YlHB4gFYdjtkiM"
+            },
+            {
+                "name": "repeating_npcaction-l_-LcBa7ov41C9QWA7NZBv_attack_onhit",
+                "current": "",
+                "max": "",
+                "id": "-Ml7_9Ym6I49GoH_lbQ8"
+            },
+            {
+                "name": "repeating_npcaction-l_-LcBa7ov41C9QWA7NZBv_damage_flag",
+                "current": "",
+                "max": "",
+                "id": "-Ml7_9Ym6I49GoH_lbQ9"
+            },
+            {
+                "name": "repeating_npcaction-l_-LcBa7ov41C9QWA7NZBv_attack_crit",
+                "current": "",
+                "max": "",
+                "id": "-Ml7_9YnLrSo33DhvDeq"
+            },
+            {
+                "name": "repeating_npcaction-l_-LcBa7ov41C9QWA7NZBv_attack_crit2",
+                "current": "",
+                "max": "",
+                "id": "-Ml7_9YnLrSo33DhvDer"
+            },
+            {
+                "name": "repeating_npcaction-l_-LcBa7ov41C9QWA7NZBv_rollbase",
+                "current": "@{wtype}&{template:npcaction} @{npc_name_flag} {{rname=@{name}}} {{description=@{show_desc}}} @{charname_output}",
+                "max": "",
+                "id": "-Ml7_9Yo-K4FG3oz4lTW"
+            },
+            {
+                "name": "pb",
+                "current": 5,
+                "max": "",
+                "id": "-Ml7_9Yo-K4FG3oz4lTX"
+            },
+            {
+                "name": "jack",
+                "current": 2,
+                "max": "",
+                "id": "-Ml7_9Yo-K4FG3oz4lTY"
+            },
+            {
+                "name": "pbd_safe",
+                "current": "",
+                "max": "",
+                "id": "-Ml7_9Yp0F8hvYy3Ahar"
+            },
+            {
+                "name": "repeating_npcaction_-LcBa7ov41C9QWA7NZBo_attack_tohitrange",
+                "current": "+0",
+                "max": "",
+                "id": "-Ml7_9Yp0F8hvYy3Ahas"
+            },
+            {
+                "name": "repeating_npcaction_-LcBa7ov41C9QWA7NZBo_attack_onhit",
+                "current": "",
+                "max": "",
+                "id": "-Ml7_9YqopjRYQRBvGMv"
+            },
+            {
+                "name": "repeating_npcaction_-LcBa7ov41C9QWA7NZBo_damage_flag",
+                "current": "",
+                "max": "",
+                "id": "-Ml7_9YqopjRYQRBvGMw"
+            },
+            {
+                "name": "repeating_npcaction_-LcBa7ov41C9QWA7NZBo_attack_crit",
+                "current": "",
+                "max": "",
+                "id": "-Ml7_9YqopjRYQRBvGMx"
+            },
+            {
+                "name": "repeating_npcaction_-LcBa7ov41C9QWA7NZBo_attack_crit2",
+                "current": "",
+                "max": "",
+                "id": "-Ml7_9YqopjRYQRBvGMy"
+            },
+            {
+                "name": "repeating_npcaction_-LcBa7ov41C9QWA7NZBo_rollbase",
+                "current": "@{wtype}&{template:npcaction} @{npc_name_flag} {{rname=@{name}}} {{description=@{show_desc}}} @{charname_output}",
+                "max": "",
+                "id": "-Ml7_9YrI71CTcVV3zwF"
+            },
+            {
+                "name": "repeating_npcaction_-LcBa7ov41C9QWA7NZBp_attack_tohitrange",
+                "current": "+9, Reach 5 ft., one creature",
+                "max": "",
+                "id": "-Ml7_9YrI71CTcVV3zwG"
+            },
+            {
+                "name": "repeating_npcaction_-LcBa7ov41C9QWA7NZBp_attack_onhit",
+                "current": "8 (1d8 + 4) bludgeoning damage",
+                "max": "",
+                "id": "-Ml7_9Ys5_-4zmzGrRTx"
+            },
+            {
+                "name": "repeating_npcaction_-LcBa7ov41C9QWA7NZBp_damage_flag",
+                "current": "{{damage=1}} {{dmg1flag=1}} ",
+                "max": "",
+                "id": "-Ml7_9Ys5_-4zmzGrRTy"
+            },
+            {
+                "name": "repeating_npcaction_-LcBa7ov41C9QWA7NZBp_attack_crit",
+                "current": "1d8",
+                "max": "",
+                "id": "-Ml7_9Yt-RDZlc8ZXd_6"
+            },
+            {
+                "name": "repeating_npcaction_-LcBa7ov41C9QWA7NZBp_attack_crit2",
+                "current": "",
+                "max": "",
+                "id": "-Ml7_9Yt-RDZlc8ZXd_7"
+            },
+            {
+                "name": "repeating_npcaction_-LcBa7ov41C9QWA7NZBp_rollbase",
+                "current": "@{wtype}&{template:npcatk} {{attack=1}} @{damage_flag} @{npc_name_flag} {{rname=[@{name}](~repeating_npcaction_npc_dmg)}} {{rnamec=[@{name}](~repeating_npcaction_npc_crit)}} {{type=[^{attack-u}](~repeating_npcaction_npc_dmg)}} {{typec=[^{attack-u}](~repeating_npcaction_npc_crit)}} {{r1=[[@{d20}+(@{attack_tohit}+0)]]}} @{rtype}+(@{attack_tohit}+0)]]}} @{charname_output}",
+                "max": "",
+                "id": "-Ml7_9Yt-RDZlc8ZXd_8"
+            },
+            {
+                "name": "repeating_npcaction_-LcBa7ov41C9QWA7NZBq_attack_tohitrange",
+                "current": "+9, Reach 5 ft., one willing creature, or a creature that is grappled by the vampire, incapacitated, or restrained",
+                "max": "",
+                "id": "-Ml7_9YuxpKRDeeexh3B"
+            },
+            {
+                "name": "repeating_npcaction_-LcBa7ov41C9QWA7NZBq_attack_onhit",
+                "current": "7 (1d6 + 4) piercing damage plus 10 (3d6) necrotic damage",
+                "max": "",
+                "id": "-Ml7_9YvN4EBNK4WVpS0"
+            },
+            {
+                "name": "repeating_npcaction_-LcBa7ov41C9QWA7NZBq_damage_flag",
+                "current": "{{damage=1}} {{dmg1flag=1}} {{dmg2flag=1}} ",
+                "max": "",
+                "id": "-Ml7_9YvN4EBNK4WVpS1"
+            },
+            {
+                "name": "repeating_npcaction_-LcBa7ov41C9QWA7NZBq_attack_crit",
+                "current": "1d6",
+                "max": "",
+                "id": "-Ml7_9YwXR6LunTeZgvX"
+            },
+            {
+                "name": "repeating_npcaction_-LcBa7ov41C9QWA7NZBq_attack_crit2",
+                "current": "3d6",
+                "max": "",
+                "id": "-Ml7_9YwXR6LunTeZgvY"
+            },
+            {
+                "name": "repeating_npcaction_-LcBa7ov41C9QWA7NZBq_rollbase",
+                "current": "@{wtype}&{template:npcatk} {{attack=1}} @{damage_flag} @{npc_name_flag} {{rname=[@{name}](~repeating_npcaction_npc_dmg)}} {{rnamec=[@{name}](~repeating_npcaction_npc_crit)}} {{type=[^{attack-u}](~repeating_npcaction_npc_dmg)}} {{typec=[^{attack-u}](~repeating_npcaction_npc_crit)}} {{r1=[[@{d20}+(@{attack_tohit}+0)]]}} @{rtype}+(@{attack_tohit}+0)]]}} @{charname_output}",
+                "max": "",
+                "id": "-Ml7_9YwXR6LunTeZgvZ"
+            },
+            {
+                "name": "repeating_npcaction_-LcBa7ov41C9QWA7NZBr_attack_tohitrange",
+                "current": "+0",
+                "max": "",
+                "id": "-Ml7_9YxRQdR82bcoXxt"
+            },
+            {
+                "name": "repeating_npcaction_-LcBa7ov41C9QWA7NZBr_attack_onhit",
+                "current": "",
+                "max": "",
+                "id": "-Ml7_9YxRQdR82bcoXxu"
+            },
+            {
+                "name": "repeating_npcaction_-LcBa7ov41C9QWA7NZBr_damage_flag",
+                "current": "",
+                "max": "",
+                "id": "-Ml7_9Yy9f0MoKhyIBi5"
+            },
+            {
+                "name": "repeating_npcaction_-LcBa7ov41C9QWA7NZBr_attack_crit",
+                "current": "",
+                "max": "",
+                "id": "-Ml7_9Yzk7Rbh_SrKgj9"
+            },
+            {
+                "name": "repeating_npcaction_-LcBa7ov41C9QWA7NZBr_attack_crit2",
+                "current": "",
+                "max": "",
+                "id": "-Ml7_9Yzk7Rbh_SrKgjA"
+            },
+            {
+                "name": "repeating_npcaction_-LcBa7ov41C9QWA7NZBr_rollbase",
+                "current": "@{wtype}&{template:npcaction} @{npc_name_flag} {{rname=@{name}}} {{description=@{show_desc}}} @{charname_output}",
+                "max": "",
+                "id": "-Ml7_9Yzk7Rbh_SrKgjB"
+            },
+            {
+                "name": "repeating_npcaction_-LcBa7ov41C9QWA7NZBs_attack_tohitrange",
+                "current": "+0",
+                "max": "",
+                "id": "-Ml7_9Z-zp6K_p4aaYNH"
+            },
+            {
+                "name": "repeating_npcaction_-LcBa7ov41C9QWA7NZBs_attack_onhit",
+                "current": "",
+                "max": "",
+                "id": "-Ml7_9Z-zp6K_p4aaYNI"
+            },
+            {
+                "name": "repeating_npcaction_-LcBa7ov41C9QWA7NZBs_damage_flag",
+                "current": "",
+                "max": "",
+                "id": "-Ml7_9Z0pwgtY4HsHF68"
+            },
+            {
+                "name": "repeating_npcaction_-LcBa7ov41C9QWA7NZBs_attack_crit",
+                "current": "",
+                "max": "",
+                "id": "-Ml7_9Z0pwgtY4HsHF69"
+            },
+            {
+                "name": "repeating_npcaction_-LcBa7ov41C9QWA7NZBs_attack_crit2",
+                "current": "",
+                "max": "",
+                "id": "-Ml7_9Z0pwgtY4HsHF6A"
+            },
+            {
+                "name": "repeating_npcaction_-LcBa7ov41C9QWA7NZBs_rollbase",
+                "current": "@{wtype}&{template:npcaction} @{npc_name_flag} {{rname=@{name}}} {{description=@{show_desc}}} @{charname_output}",
+                "max": "",
+                "id": "-Ml7_9Z1kAN-Hr5CqB4c"
+            },
+            {
+                "name": "spell_attack_bonus",
+                "current": "0",
+                "max": "",
+                "id": "-Ml7_9Z1kAN-Hr5CqB4d"
+            },
+            {
+                "name": "spell_save_dc",
+                "current": "0",
+                "max": "",
+                "id": "-Ml7_9Z2OlrTHEUhcdlF"
+            },
+            {
+                "name": "jack_bonus",
+                "current": "",
+                "max": "",
+                "id": "-Ml7_9Z3w2M_bwKWoydy"
+            },
+            {
+                "name": "jack_attr",
+                "current": "",
+                "max": "",
+                "id": "-Ml7_9Z3w2M_bwKWoydz"
+            },
+            {
+                "name": "initiative_bonus",
+                "current": 4.18,
+                "max": "",
+                "id": "-Ml7_9Z4h8HoI_PL3ARs"
+            },
+            {
+                "name": "strength_save_bonus",
+                "current": 4,
+                "max": "",
+                "id": "-Ml7_9Z4h8HoI_PL3ARt"
+            },
+            {
+                "name": "dexterity_save_bonus",
+                "current": 4,
+                "max": "",
+                "id": "-Ml7_9Z5zwz7hbe_J7vK"
+            },
+            {
+                "name": "constitution_save_bonus",
+                "current": 4,
+                "max": "",
+                "id": "-Ml7_9Z5zwz7hbe_J7vL"
+            },
+            {
+                "name": "intelligence_save_bonus",
+                "current": 3,
+                "max": "",
+                "id": "-Ml7_9Z6rDDasdmXbYqJ"
+            },
+            {
+                "name": "wisdom_save_bonus",
+                "current": 2,
+                "max": "",
+                "id": "-Ml7_9Z6rDDasdmXbYqK"
+            },
+            {
+                "name": "charisma_save_bonus",
+                "current": 4,
+                "max": "",
+                "id": "-Ml7_9Z6rDDasdmXbYqL"
+            },
+            {
+                "name": "death_save_bonus",
+                "current": 0,
+                "max": "",
+                "id": "-Ml7_9Z7tqrUQpkMkP_E"
+            },
+            {
+                "name": "athletics_bonus",
+                "current": 4,
+                "max": "",
+                "id": "-Ml7_9Z7tqrUQpkMkP_F"
+            },
+            {
+                "name": "acrobatics_bonus",
+                "current": 4,
+                "max": "",
+                "id": "-Ml7_9Z87jUj8tRtCDaA"
+            },
+            {
+                "name": "sleight_of_hand_bonus",
+                "current": 4,
+                "max": "",
+                "id": "-Ml7_9Z87jUj8tRtCDaB"
+            },
+            {
+                "name": "stealth_bonus",
+                "current": 4,
+                "max": "",
+                "id": "-Ml7_9Z87jUj8tRtCDaC"
+            },
+            {
+                "name": "arcana_bonus",
+                "current": 3,
+                "max": "",
+                "id": "-Ml7_9Z9qvLdwzyXd9oW"
+            },
+            {
+                "name": "history_bonus",
+                "current": 3,
+                "max": "",
+                "id": "-Ml7_9Z9qvLdwzyXd9oX"
+            },
+            {
+                "name": "investigation_bonus",
+                "current": 3,
+                "max": "",
+                "id": "-Ml7_9ZA4il-tXj7Nf7v"
+            },
+            {
+                "name": "nature_bonus",
+                "current": 3,
+                "max": "",
+                "id": "-Ml7_9ZBDN3yzKXm7Zue"
+            },
+            {
+                "name": "religion_bonus",
+                "current": 3,
+                "max": "",
+                "id": "-Ml7_9ZBDN3yzKXm7Zuf"
+            },
+            {
+                "name": "animal_handling_bonus",
+                "current": 2,
+                "max": "",
+                "id": "-Ml7_9ZCglMj5dOMCUbl"
+            },
+            {
+                "name": "insight_bonus",
+                "current": 2,
+                "max": "",
+                "id": "-Ml7_9ZCglMj5dOMCUbm"
+            },
+            {
+                "name": "medicine_bonus",
+                "current": 2,
+                "max": "",
+                "id": "-Ml7_9ZD58KrC52gEE6t"
+            },
+            {
+                "name": "perception_bonus",
+                "current": 2,
+                "max": "",
+                "id": "-Ml7_9ZD58KrC52gEE6u"
+            },
+            {
+                "name": "survival_bonus",
+                "current": 2,
+                "max": "",
+                "id": "-Ml7_9ZD58KrC52gEE6v"
+            },
+            {
+                "name": "deception_bonus",
+                "current": 4,
+                "max": "",
+                "id": "-Ml7_9ZEhcGqJH8baqM9"
+            },
+            {
+                "name": "intimidation_bonus",
+                "current": 4,
+                "max": "",
+                "id": "-Ml7_9ZIgH1v6AP4Tdj0"
+            },
+            {
+                "name": "performance_bonus",
+                "current": 4,
+                "max": "",
+                "id": "-Ml7_9ZJjGJfY5bPnXkH"
+            },
+            {
+                "name": "persuasion_bonus",
+                "current": 4,
+                "max": "",
+                "id": "-Ml7_9ZJjGJfY5bPnXkI"
+            },
+            {
+                "name": "passive_wisdom",
+                "current": 12,
+                "max": "",
+                "id": "-Ml7_9ZJjGJfY5bPnXkJ"
+            },
+            {
+                "name": "strength_mod",
+                "current": 4,
+                "max": "",
+                "id": "-Ml7_9ZKKV9qbJGqeWO2"
+            },
+            {
+                "name": "npc_str_negative",
+                "current": 0,
+                "max": "",
+                "id": "-Ml7_9ZKKV9qbJGqeWO3"
+            },
+            {
+                "name": "dexterity_mod",
+                "current": 4,
+                "max": "",
+                "id": "-Ml7_9ZL82JweyUObq_h"
+            },
+            {
+                "name": "npc_dex_negative",
+                "current": 0,
+                "max": "",
+                "id": "-Ml7_9ZL82JweyUObq_i"
+            },
+            {
+                "name": "constitution_mod",
+                "current": 4,
+                "max": "",
+                "id": "-Ml7_9ZL82JweyUObq_j"
+            },
+            {
+                "name": "npc_con_negative",
+                "current": 0,
+                "max": "",
+                "id": "-Ml7_9ZMbvZPmWyWWcEC"
+            },
+            {
+                "name": "intelligence_mod",
+                "current": 3,
+                "max": "",
+                "id": "-Ml7_9ZMbvZPmWyWWcED"
+            },
+            {
+                "name": "npc_int_negative",
+                "current": 0,
+                "max": "",
+                "id": "-Ml7_9ZMbvZPmWyWWcEE"
+            },
+            {
+                "name": "wisdom_mod",
+                "current": 2,
+                "max": "",
+                "id": "-Ml7_9ZNO4DSDjVh2Skw"
+            },
+            {
+                "name": "npc_wis_negative",
+                "current": 0,
+                "max": "",
+                "id": "-Ml7_9ZNO4DSDjVh2Skx"
+            },
+            {
+                "name": "charisma_mod",
+                "current": 4,
+                "max": "",
+                "id": "-Ml7_9ZNO4DSDjVh2Sky"
+            },
+            {
+                "name": "npc_cha_negative",
+                "current": 0,
+                "max": "",
+                "id": "-Ml7_9ZO3n7Pa02t5w8O"
+            },
+            {
+                "name": "weighttotal",
+                "current": 0,
+                "max": "",
+                "id": "-Ml7_9ZO3n7Pa02t5w8P"
+            },
+            {
+                "name": "encumberance",
+                "current": " ",
+                "max": "",
+                "id": "-Ml7_9ZPRJoyZ7xZcK0r"
+            },
+            {
+                "name": "mancer_confirm_flag",
+                "current": "",
+                "max": "",
+                "id": "-Ml7_9ZPRJoyZ7xZcK0s"
+            },
+            {
+                "name": "mancer_npc",
+                "current": "on",
+                "max": "",
+                "id": "-Ml7_9ZPRJoyZ7xZcK0t"
+            },
+            {
+                "name": "rtype",
+                "current": "@{advantagetoggle}",
+                "max": "",
+                "id": "-Ml7_9ZQn4yxHMSo18xY"
+            },
+            {
+                "name": "init_tiebreaker",
+                "current": "@{dexterity}/100",
+                "max": "",
+                "id": "-Ml7_9ZQn4yxHMSo18xZ"
+            },
+            {
+                "name": "global_skill_mod_flag",
+                "current": "1",
+                "max": "",
+                "id": "-Ml7_9ZR1PRTRDdeoHu8"
+            },
+            {
+                "name": "global_attack_mod_flag",
+                "current": "1",
+                "max": "",
+                "id": "-Ml7_9ZR1PRTRDdeoHu9"
+            },
+            {
+                "name": "charname_output",
+                "current": "0",
+                "max": "",
+                "id": "-Ml7_9ZSGFeKX7BhrcAN"
+            },
+            {
+                "name": "npc_name_flag",
+                "current": "0",
+                "max": "",
+                "id": "-Ml7_9ZSGFeKX7BhrcAO"
+            },
+            {
+                "name": "ammotracking",
+                "current": "on",
+                "max": "",
+                "id": "-Ml7_9ZSGFeKX7BhrcAP"
+            },
+            {
+                "name": "cd_bar3_m",
+                "current": "0",
+                "max": "",
+                "id": "-Ml7_9ZTSFCvxuPIh8-v"
+            },
+            {
+                "name": "strength_save_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{strength-save-u}}} {{mod=@{strength_save_bonus}}} {{r1=[[@{d20}+@{strength_save_bonus}@{pbd_safe}]]}} @{advantagetoggle}+@{strength_save_bonus}@{pbd_safe}]]}} {{global=@{global_save_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-Ml7_9ZTSFCvxuPIh8-w"
+            },
+            {
+                "name": "dexterity_save_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{dexterity-save-u}}} {{mod=@{dexterity_save_bonus}}} {{r1=[[@{d20}+@{dexterity_save_bonus}@{pbd_safe}]]}} @{advantagetoggle}+@{dexterity_save_bonus}@{pbd_safe}]]}} {{global=@{global_save_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-Ml7_9ZUbe7XVjVLXUDC"
+            },
+            {
+                "name": "constitution_save_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{constitution-save-u}}} {{mod=@{constitution_save_bonus}}} {{r1=[[@{d20}+@{constitution_save_bonus}@{pbd_safe}]]}} @{advantagetoggle}+@{constitution_save_bonus}@{pbd_safe}]]}} {{global=@{global_save_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-Ml7_9ZUbe7XVjVLXUDD"
+            },
+            {
+                "name": "intelligence_save_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{intelligence-save-u}}} {{mod=@{intelligence_save_bonus}}} {{r1=[[@{d20}+@{intelligence_save_bonus}@{pbd_safe}]]}} @{advantagetoggle}+@{intelligence_save_bonus}@{pbd_safe}]]}} {{global=@{global_save_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-Ml7_9ZVehTZzVcmUgnN"
+            },
+            {
+                "name": "wisdom_save_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{wisdom-save-u}}} {{mod=@{wisdom_save_bonus}}} {{r1=[[@{d20}+@{wisdom_save_bonus}@{pbd_safe}]]}} @{advantagetoggle}+@{wisdom_save_bonus}@{pbd_safe}]]}} {{global=@{global_save_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-Ml7_9ZVehTZzVcmUgnO"
+            },
+            {
+                "name": "charisma_save_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{charisma-save-u}}} {{mod=@{charisma_save_bonus}}} {{r1=[[@{d20}+@{charisma_save_bonus}@{pbd_safe}]]}} @{advantagetoggle}+@{charisma_save_bonus}@{pbd_safe}]]}} {{global=@{global_save_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-Ml7_9ZWlpc9PRtF-nKw"
+            },
+            {
+                "name": "honor_save_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{honor-save-u}}} {{mod=@{honor_save_bonus}}} {{r1=[[@{d20}+@{honor_save_bonus}@{pbd_safe}]]}} @{advantagetoggle}+@{honor_save_bonus}@{pbd_safe}]]}} {{global=@{global_save_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-Ml7_9ZWlpc9PRtF-nKx"
+            },
+            {
+                "name": "sanity_save_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{sanity-save-u}}} {{mod=@{sanity_save_bonus}}} {{r1=[[@{d20}+@{sanity_save_bonus}@{pbd_safe}]]}} @{advantagetoggle}+@{sanity_save_bonus}@{pbd_safe}]]}} {{global=@{global_save_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-Ml7_9ZWlpc9PRtF-nKy"
+            },
+            {
+                "name": "athletics_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{athletics-u}}} {{mod=@{athletics_bonus}}} {{r1=[[@{d20}+4[strength]@{pbd_safe}]]}} @{advantagetoggle}+4[strength]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-Ml7_9ZX2pRIGVF0RQ2U"
+            },
+            {
+                "name": "acrobatics_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{acrobatics-u}}} {{mod=@{acrobatics_bonus}}} {{r1=[[@{d20}+4[dexterity]@{pbd_safe}]]}} @{advantagetoggle}+4[dexterity]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-Ml7_9ZX2pRIGVF0RQ2V"
+            },
+            {
+                "name": "sleight_of_hand_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{sleight_of_hand-u}}} {{mod=@{sleight_of_hand_bonus}}} {{r1=[[@{d20}+4[dexterity]@{pbd_safe}]]}} @{advantagetoggle}+4[dexterity]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-Ml7_9ZY9uVJwiaI7zzZ"
+            },
+            {
+                "name": "stealth_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{stealth-u}}} {{mod=@{stealth_bonus}}} {{r1=[[@{d20}+4[dexterity]@{pbd_safe}]]}} @{advantagetoggle}+4[dexterity]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-Ml7_9ZY9uVJwiaI7zz_"
+            },
+            {
+                "name": "arcana_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{arcana-u}}} {{mod=@{arcana_bonus}}} {{r1=[[@{d20}+3[intelligence]@{pbd_safe}]]}} @{advantagetoggle}+3[intelligence]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-Ml7_9ZZCxiu5n3BeIsY"
+            },
+            {
+                "name": "history_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{history-u}}} {{mod=@{history_bonus}}} {{r1=[[@{d20}+3[intelligence]@{pbd_safe}]]}} @{advantagetoggle}+3[intelligence]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-Ml7_9ZZCxiu5n3BeIsZ"
+            },
+            {
+                "name": "investigation_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{investigation-u}}} {{mod=@{investigation_bonus}}} {{r1=[[@{d20}+3[intelligence]@{pbd_safe}]]}} @{advantagetoggle}+3[intelligence]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-Ml7_9Z_inTlyUnCbmE7"
+            },
+            {
+                "name": "nature_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{nature-u}}} {{mod=@{nature_bonus}}} {{r1=[[@{d20}+3[intelligence]@{pbd_safe}]]}} @{advantagetoggle}+3[intelligence]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-Ml7_9Z_inTlyUnCbmE8"
+            },
+            {
+                "name": "religion_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{religion-u}}} {{mod=@{religion_bonus}}} {{r1=[[@{d20}+3[intelligence]@{pbd_safe}]]}} @{advantagetoggle}+3[intelligence]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-Ml7_9Zac5f7Sb7bJg-b"
+            },
+            {
+                "name": "animal_handling_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{animal_handling-u}}} {{mod=@{animal_handling_bonus}}} {{r1=[[@{d20}+2[wisdom]@{pbd_safe}]]}} @{advantagetoggle}+2[wisdom]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-Ml7_9Zac5f7Sb7bJg-c"
+            },
+            {
+                "name": "insight_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{insight-u}}} {{mod=@{insight_bonus}}} {{r1=[[@{d20}+2[wisdom]@{pbd_safe}]]}} @{advantagetoggle}+2[wisdom]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-Ml7_9Zac5f7Sb7bJg-d"
+            },
+            {
+                "name": "medicine_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{medicine-u}}} {{mod=@{medicine_bonus}}} {{r1=[[@{d20}+2[wisdom]@{pbd_safe}]]}} @{advantagetoggle}+2[wisdom]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-Ml7_9ZbeglzjMbXkYzN"
+            },
+            {
+                "name": "perception_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{perception-u}}} {{mod=@{perception_bonus}}} {{r1=[[@{d20}+2[wisdom]@{pbd_safe}]]}} @{advantagetoggle}+2[wisdom]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-Ml7_9ZbeglzjMbXkYzO"
+            },
+            {
+                "name": "survival_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{survival-u}}} {{mod=@{survival_bonus}}} {{r1=[[@{d20}+2[wisdom]@{pbd_safe}]]}} @{advantagetoggle}+2[wisdom]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-Ml7_9ZbeglzjMbXkYzP"
+            },
+            {
+                "name": "deception_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{deception-u}}} {{mod=@{deception_bonus}}} {{r1=[[@{d20}+4[charisma]@{pbd_safe}]]}} @{advantagetoggle}+4[charisma]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-Ml7_9Zcz2X5tVWfr4vU"
+            },
+            {
+                "name": "intimidation_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{intimidation-u}}} {{mod=@{intimidation_bonus}}} {{r1=[[@{d20}+4[charisma]@{pbd_safe}]]}} @{advantagetoggle}+4[charisma]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-Ml7_9Zcz2X5tVWfr4vV"
+            },
+            {
+                "name": "performance_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{performance-u}}} {{mod=@{performance_bonus}}} {{r1=[[@{d20}+4[charisma]@{pbd_safe}]]}} @{advantagetoggle}+4[charisma]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-Ml7_9Zcz2X5tVWfr4vW"
+            },
+            {
+                "name": "persuasion_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{persuasion-u}}} {{mod=@{persuasion_bonus}}} {{r1=[[@{d20}+4[charisma]@{pbd_safe}]]}} @{advantagetoggle}+4[charisma]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-Ml7_9ZdDyaxQwqpDUfM"
+            },
+            {
+                "name": "repeating_skillmod_-MkNxu2Zq3iYZ5CLTLgq_global_skill_roll",
+                "current": "1d4",
+                "max": "",
+                "id": "-Ml7_9ZdDyaxQwqpDUfN"
+            },
+            {
+                "name": "repeating_skillmod_-MkNxu2Zq3iYZ5CLTLgq_global_skill_name",
+                "current": "GUIDANCE",
+                "max": "",
+                "id": "-Ml7_9ZemyAZRpi4ugQl"
+            },
+            {
+                "name": "repeating_skillmod_-MkNxu2Zq3iYZ5CLTLgq_global_skill_active_flag",
+                "current": "0",
+                "max": "",
+                "id": "-Ml7_9ZemyAZRpi4ugQm"
+            },
+            {
+                "name": "repeating_tohitmod_-MkNxu2Zq3iYZ5CLTLgr_global_attack_roll",
+                "current": "1d4",
+                "max": "",
+                "id": "-Ml7_9ZemyAZRpi4ugQn"
+            },
+            {
+                "name": "repeating_tohitmod_-MkNxu2Zq3iYZ5CLTLgr_global_attack_name",
+                "current": "BLESS",
+                "max": "",
+                "id": "-Ml7_9ZfJDSptzK5xcTF"
+            },
+            {
+                "name": "repeating_tohitmod_-MkNxu2Zq3iYZ5CLTLgr_global_attack_active_flag",
+                "current": "0",
+                "max": "",
+                "id": "-Ml7_9ZfJDSptzK5xcTG"
+            },
+            {
+                "name": "honor_save_bonus",
+                "current": 0,
+                "max": "",
+                "id": "-Ml7_9ZgPGcL3_jsEoaV"
+            },
+            {
+                "name": "sanity_save_bonus",
+                "current": 0,
+                "max": "",
+                "id": "-Ml7_9ZgPGcL3_jsEoaW"
+            },
+            {
+                "name": "death_save_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{death-save-u}}} {{mod=@{death_save_bonus}}} {{r1=[[@{d20}+@{death_save_bonus}@{pbd_safe}]]}} @{advantagetoggle}+@{death_save_bonus}@{pbd_safe}]]}} {{global=@{global_save_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-Ml7_9ZhVwnM01x34SOB"
+            },
+            {
+                "name": "USECOLOR",
+                "current": "YES",
+                "max": "",
+                "id": "-Ml7_9ZhVwnM01x34SOC"
+            },
+            {
+                "name": "showleveler",
+                "current": 0,
+                "max": "",
+                "id": "-Ml7_9Zi6bF-UO30maGV"
+            },
+            {
+                "name": "invalidXP",
+                "current": 0,
+                "max": "",
+                "id": "-Ml7_9Zi6bF-UO30maGW"
+            },
+            {
+                "name": "repeating_npctrait_-LcBa7ov41C9QWA7NZBw_npc_options-flag",
+                "current": "0",
+                "max": "",
+                "id": "-Ml7_9Zj2jhx2MTqHR0E"
+            },
+            {
+                "name": "repeating_npctrait_-LcBa7ov41C9QWA7NZBx_npc_options-flag",
+                "current": "0",
+                "max": "",
+                "id": "-Ml7_9Zj2jhx2MTqHR0F"
+            },
+            {
+                "name": "repeating_npctrait_-LcBa7ov41C9QWA7NZBy_npc_options-flag",
+                "current": "0",
+                "max": "",
+                "id": "-Ml7_9Zj2jhx2MTqHR0G"
+            },
+            {
+                "name": "repeating_npctrait_-LcBa7ov41C9QWA7NZBz_npc_options-flag",
+                "current": "0",
+                "max": "",
+                "id": "-Ml7_9ZkTwrPUmt_tHUC"
+            },
+            {
+                "name": "repeating_npctrait_-LcBa7ov41C9QWA7NZC-_npc_options-flag",
+                "current": "0",
+                "max": "",
+                "id": "-Ml7_9ZlQwwGzlu_25iQ"
+            },
+            {
+                "name": "repeating_npctrait_-LcBa7ov41C9QWA7NZC0_npc_options-flag",
+                "current": "0",
+                "max": "",
+                "id": "-Ml7_9ZlQwwGzlu_25iR"
+            },
+            {
+                "name": "appliedUpdates",
+                "current": "upgrade_to_2_8,upgrade_to_2_9,upgrade_to_4_2_1,fix_npc_missing_attack_display_flag_attribute,fix_npc_version_number,fix_npcs_in_modules_saves_and_ability_mods,fix_spell_attacks,fix_npc_in_modules_triggering_popup,fix_npc_actions_to_support_translation,fix_npc_attacks,fix_npc_attacks_with_auto_damage_roll,fix_npc_actions_with_damage,fix_npc_charname_output,fix_spell_school_ouput,fix_advantage_query",
+                "max": "",
+                "id": "-Ml7_9ZmDD47V47nMdud"
+            },
+            {
+                "name": "repeating_npctrait_-LcBa7ov41C9QWA7NZBw_description",
+                "current": "If the vampire isn't in sun light or running water, it can use its action to polymorph into a Tiny bat or a Medium cloud of mist, or back into its true form.  \nWhile in bat form, the vampire can't speak, its walking speed is 5 feet, and it has a flying speed of 30 feet. Its statistics, other than its size and speed, are unchanged. Anything it is wearing transforms with it, but nothing it is carrying does. It reverts to its true form if it dies.  \nWhile in mist form, the vampire can't take any actions, speak, or manipulate objects. It is weightless, has a flying speed of 20 feet, can hover, and can enter a hostile creature's space and stop there. In addition, if air can pass through a space, the mist can do so without squeezing, and it can't pass through water. It has advantage on Strength, Dexterity, and Constitution saving throws, and it is immune to all nonmagical damage, except the damage it takes from sunlight.",
+                "max": "",
+                "id": "-Ml7_9ZmDD47V47nMdue"
+            },
+            {
+                "name": "repeating_npctrait_-LcBa7ov41C9QWA7NZBx_description",
+                "current": "If the vampire fails a saving throw, it can choose to succeed instead.",
+                "max": "",
+                "id": "-Ml7_9ZmDD47V47nMduf"
+            },
+            {
+                "name": "repeating_npctrait_-LcBa7ov41C9QWA7NZBy_description",
+                "current": "When it drops to 0 hit points outside its resting place, the vampire transforms into a cloud of mist (as in the Shapechanger trait) instead of falling unconscious, provided that it isn't in sunlight or running water. If it can't transform, it is destroyed.  \nWhile it has 0 hit points in mist form, it can't revert to its vampire form, and it must reach its resting place within 2 hours or be destroyed. Once in its resting place, it reverts to its vampire form. It is then paralyzed until it regains at least 1 hit point. After spending 1 hour in its resting place with 0 hit points, it regains 1 hit point.",
+                "max": "",
+                "id": "-Ml7_9ZnRsnZWG7TSz2G"
+            },
+            {
+                "name": "repeating_npctrait_-LcBa7ov41C9QWA7NZBz_description",
+                "current": "The vampire regains 20 hit points at the start of its turn if it has at least 1 hit point and isn't in sunlight or running water. If the vampire takes radiant damage or damage from holy water, this trait doesn't function at the start of the vampire's next turn.",
+                "max": "",
+                "id": "-Ml7_9ZnRsnZWG7TSz2H"
+            },
+            {
+                "name": "repeating_npctrait_-LcBa7ov41C9QWA7NZC-_description",
+                "current": "The vampire can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.",
+                "max": "",
+                "id": "-Ml7_9ZojvSYtMkrJ4Qz"
+            },
+            {
+                "name": "repeating_npctrait_-LcBa7ov41C9QWA7NZC0_description",
+                "current": "The vampire has the following flaws:   \n• Forbiddance. The vampire can't enter a residence without an invitation from one of the occupants. \n• Harmed by Running Water. The vampire takes 20 acid damage if it ends its turn in running water. \n• Stake to the Heart. If a piercing weapon made of wood is driven into the vampire's heart while the vampire is incapacitated in its resting place, the vampire is paralyzed until the stake is removed. \n• Sunlight Hypersensitivity. The vampire takes 20 radiant damage when it starts its turn in sunlight. While in sunlight, it has disadvantage on attack rolls and ability checks.",
+                "max": "",
+                "id": "-Ml7_9ZojvSYtMkrJ4R-"
+            },
+            {
+                "name": "queryadvantage",
+                "current": "{{query=1}} ?{Advantage?|Normal Roll,&#123&#123normal=1&#125&#125 &#123&#123r2=[[0d20|Advantage,&#123&#123advantage=1&#125&#125 &#123&#123r2=[[@{d20}|Disadvantage,&#123&#123disadvantage=1&#125&#125 &#123&#123r2=[[@{d20}}",
+                "max": "",
+                "id": "-Ml7_9ZpEKs5Ud143s0Y"
+            }
+        ],
+        "abilities": []
+    }
+}

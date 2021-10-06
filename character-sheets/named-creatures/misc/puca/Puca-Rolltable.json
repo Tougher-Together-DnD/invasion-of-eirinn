@@ -1,0 +1,32 @@
+{
+    "name": "Puca-Rolltable",
+    "showplayers": false,
+    "id": "-Ml8Ry-zl02qPmIG8TeT",
+    "items": {
+        "-Ml8vBlamXBpilOsE7yU": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/invasion-of-eirinn/main/character-sheets/named-creatures/misc/puca/puca-phooka-token.png",
+            "id": "-Ml8vBlamXBpilOsE7yU",
+            "name": "phooka"
+        },
+        "-Ml8vUPT-h_3OfyJXQUl": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/invasion-of-eirinn/main/character-sheets/named-creatures/misc/puca/puca-horse-streak.png",
+            "id": "-Ml8vUPT-h_3OfyJXQUl",
+            "name": "horse with streak"
+        },
+        "-Ml8v_TnnPPmwOVW_R3m": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/invasion-of-eirinn/main/character-sheets/named-creatures/misc/puca/puca-horse-star.png",
+            "id": "-Ml8v_TnnPPmwOVW_R3m",
+            "name": "horse with star"
+        },
+        "-Ml8vbeIICUu_s07O-sU": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/invasion-of-eirinn/main/character-sheets/named-creatures/misc/puca/human-male-token.png",
+            "id": "-Ml8vbeIICUu_s07O-sU",
+            "name": "male elf"
+        },
+        "-Ml8vdeE6jlh1mSOU1hB": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/invasion-of-eirinn/main/character-sheets/named-creatures/misc/puca/human-female-token.png",
+            "id": "-Ml8vdeE6jlh1mSOU1hB",
+            "name": "female elf"
+        }
+    }
+}

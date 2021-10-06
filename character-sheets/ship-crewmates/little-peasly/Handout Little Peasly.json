@@ -1,0 +1,14 @@
+{
+    "schema_version": 3,
+    "type": "handout",
+    "handout": {
+        "archived": false,
+        "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/invasion-of-eirinn/main/character-sheets/ship-crewmates/little-peasly/peasly-portrait.png",
+        "controlledby": "",
+        "inplayerjournals": "",
+        "name": "Handout: Little Peasly",
+        "tags": "[\"crews\"]",
+        "gmnotes": "",
+        "notes": ""
+    }
+}

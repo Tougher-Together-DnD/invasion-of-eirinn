@@ -1,0 +1,14 @@
+{
+    "schema_version": 3,
+    "type": "handout",
+    "handout": {
+        "archived": false,
+        "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/invasion-of-eirinn/main/character-sheets/ship-crewmates/big-joe-tingis/big-joe-portrait.png",
+        "controlledby": "",
+        "inplayerjournals": "",
+        "name": "Handout: \"Big Joe\" Tingis",
+        "tags": "[\"crews\"]",
+        "gmnotes": "",
+        "notes": ""
+    }
+}
