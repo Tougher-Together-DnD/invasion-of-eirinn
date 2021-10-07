@@ -27,6 +27,16 @@
             "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/invasion-of-eirinn/main/character-sheets/named-creatures/misc/puca/human-female-token.png",
             "id": "-Ml8vdeE6jlh1mSOU1hB",
             "name": "female elf"
+        },
+        "-MlMtwocnLsaAMHI20Ah": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/invasion-of-eirinn/main/character-sheets/named-creatures/misc/puca/puca-dog-streak-token.png",
+            "id": "-MlMtwocnLsaAMHI20Ah",
+            "name": "dog-streak"
+        },
+        "-MlMu31K83sz2Dv9lETw": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/invasion-of-eirinn/main/character-sheets/named-creatures/misc/puca/puca-dog-star-token.png",
+            "id": "-MlMu31K83sz2Dv9lETw",
+            "name": "dog-star"
         }
     }
 }
