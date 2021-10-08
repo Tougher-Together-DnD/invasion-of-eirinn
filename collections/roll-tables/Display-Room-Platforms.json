@@ -1,0 +1,35 @@
+{
+    "name": "Display-Room-Platforms",
+    "showplayers": false,
+    "id": "-MkOlwYlOLRNHOjdfuYW",
+    "items": {
+        "-MkOmN2IfF2fuB8qSMNR": {
+            "id": "-MkOmN2IfF2fuB8qSMNR",
+            "name": "Belt of Fire Giant Strength"
+        },
+        "-MkOmVY1WPguQIj2WhZc": {
+            "id": "-MkOmVY1WPguQIj2WhZc",
+            "name": "Ghost Step Tattoo"
+        },
+        "-MkOmbELNC0kDwYabkg7": {
+            "id": "-MkOmbELNC0kDwYabkg7",
+            "name": "Robe of Stars"
+        },
+        "-MkOmd0p4vTl_dMrDd1X": {
+            "id": "-MkOmd0p4vTl_dMrDd1X",
+            "name": "Hand of Nuada"
+        },
+        "-MkOmyRLxLrtC5EGdSj_": {
+            "id": "-MkOmyRLxLrtC5EGdSj_",
+            "name": "Crystal Ball"
+        },
+        "-MkOn3wrDwZGrCbY-84P": {
+            "id": "-MkOn3wrDwZGrCbY-84P",
+            "name": "Manual of Golems"
+        },
+        "-MkPYiBP4TMU-1O2rcch": {
+            "id": "-MkPYiBP4TMU-1O2rcch",
+            "name": "Empty Case"
+        }
+    }
+}
