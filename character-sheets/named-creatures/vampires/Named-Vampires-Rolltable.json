@@ -1,0 +1,32 @@
+{
+    "name": "Named-Vampires-Rolltable",
+    "showplayers": false,
+    "id": "-Ml7YO1sgYKlo22UKsR5",
+    "items": {
+        "-Ml7YVooIZgnsyXiMoEu": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/invasion-of-eirinn/main/character-sheets/named-creatures/vampires/vampire-bat-token.png",
+            "id": "-Ml7YVooIZgnsyXiMoEu",
+            "name": "bat"
+        },
+        "-Ml7Yef3BkQi7qXH1fOv": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/invasion-of-eirinn/main/character-sheets/named-creatures/vampires/vampire-mist-token.png",
+            "id": "-Ml7Yef3BkQi7qXH1fOv",
+            "name": "mist"
+        },
+        "-Ml7YkHIujESSA-7FiDG": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/invasion-of-eirinn/main/character-sheets/named-creatures/vampires/ineca/ineca-sufocan-token.png",
+            "id": "-Ml7YkHIujESSA-7FiDG",
+            "name": "Ineca Sufocan"
+        },
+        "-Ml7Ytw6KKwTDSTE6eSC": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/invasion-of-eirinn/main/character-sheets/named-creatures/vampires/xeloc/xeloc-token.png",
+            "id": "-Ml7Ytw6KKwTDSTE6eSC",
+            "name": "Xeloc"
+        },
+        "-Ml7YwkF9rDkN3VfIRTB": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/invasion-of-eirinn/main/character-sheets/named-creatures/vampires/xeloc/xeloc-healed-token.png",
+            "id": "-Ml7YwkF9rDkN3VfIRTB",
+            "name": "Xeloc Healed"
+        }
+    }
+}

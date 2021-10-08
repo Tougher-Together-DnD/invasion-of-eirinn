@@ -1,0 +1,17 @@
+{
+    "name": "Selkie-Rolltable",
+    "showplayers": false,
+    "id": "-Ml87vqQCMwjO_JatbFY",
+    "items": {
+        "-Ml88-gPO1H9Gh4nQy4o": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/invasion-of-eirinn/main/character-sheets/creatures/images/selkie/selkie-human-token.png",
+            "id": "-Ml88-gPO1H9Gh4nQy4o",
+            "name": "human form"
+        },
+        "-Ml887qpAfMLA6iExeoq": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/invasion-of-eirinn/main/character-sheets/creatures/images/selkie/selkie-seal-token.png",
+            "id": "-Ml887qpAfMLA6iExeoq",
+            "name": "seal form"
+        }
+    }
+}
