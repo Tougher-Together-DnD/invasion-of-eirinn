@@ -1,0 +1,32 @@
+{
+    "name": "Guard-Rolltable",
+    "showplayers": false,
+    "id": "-MlcaYGWYMVpKi1HSwPv",
+    "items": {
+        "-Mlcc-afWTNxUWKfR8LU": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/invasion-of-eirinn/main/character-sheets/creatures/images/guards/guard-aleston.png",
+            "id": "-Mlcc-afWTNxUWKfR8LU",
+            "name": "Aleston-Guard"
+        },
+        "-Mlcc53W9-S6OQ-2RVO1": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/invasion-of-eirinn/main/character-sheets/creatures/images/guards/guard-amn.png",
+            "id": "-Mlcc53W9-S6OQ-2RVO1",
+            "name": "Amn-Guard"
+        },
+        "-Mlcc7u5JITnjI6utNFY": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/invasion-of-eirinn/main/character-sheets/creatures/images/guards/guard-dwarve.png",
+            "id": "-Mlcc7u5JITnjI6utNFY",
+            "name": "Dwarve-Guard"
+        },
+        "-Mlcc9vsDIxOVybM-gmg": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/invasion-of-eirinn/main/character-sheets/creatures/images/guards/guard-elf.png",
+            "id": "-Mlcc9vsDIxOVybM-gmg",
+            "name": "Elf-Guard"
+        },
+        "-MlccC8g1L3--u6KwKAs": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/invasion-of-eirinn/main/character-sheets/creatures/images/guards/guard-saltmarsh.png",
+            "id": "-MlccC8g1L3--u6KwKAs",
+            "name": "Saltmarsh-Guard"
+        }
+    }
+}
