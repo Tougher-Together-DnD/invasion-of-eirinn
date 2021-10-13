@@ -1,0 +1,47 @@
+{
+    "name": "Druid-Uthgardt-Firbolg",
+    "showplayers": false,
+    "id": "-MldHv_amh3NXr66STI6",
+    "items": {
+        "-MldJVu53I7hDccLhsLi": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/invasion-of-eirinn/main/character-sheets/creatures/images/druids-uthgardt/druid-f.png",
+            "id": "-MldJVu53I7hDccLhsLi",
+            "name": "Druid-Female"
+        },
+        "-MldJXdJDMpNg-QDfhpY": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/invasion-of-eirinn/main/character-sheets/creatures/images/druids-uthgardt/druid-m.png",
+            "id": "-MldJXdJDMpNg-QDfhpY",
+            "name": "Druid-Male"
+        },
+        "-MldJ_nbBxWr1EkVhBI1": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/invasion-of-eirinn/main/character-sheets/creatures/images/druids-uthgardt/firbolg-f.png",
+            "id": "-MldJ_nbBxWr1EkVhBI1",
+            "name": "Firbolg-Female"
+        },
+        "-MldJc9Z9ttCH57071uz": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/invasion-of-eirinn/main/character-sheets/creatures/images/druids-uthgardt/firbolg-m.png",
+            "id": "-MldJc9Z9ttCH57071uz",
+            "name": "Firbolg-Male"
+        },
+        "-MldJe815aNpNX7qZyjG": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/invasion-of-eirinn/main/character-sheets/creatures/images/druids-uthgardt/uthgardt-chief-m.png",
+            "id": "-MldJe815aNpNX7qZyjG",
+            "name": "Uthgardt-Chief"
+        },
+        "-MldJh727mCLyt7jGt6Z": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/invasion-of-eirinn/main/character-sheets/creatures/images/druids-uthgardt/uthgardt-f.png",
+            "id": "-MldJh727mCLyt7jGt6Z",
+            "name": "Uthgardt-Female"
+        },
+        "-MldJjKKgXnszA_E_s5F": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/invasion-of-eirinn/main/character-sheets/creatures/images/druids-uthgardt/uthgardt-m.png",
+            "id": "-MldJjKKgXnszA_E_s5F",
+            "name": "Uthgardt-Male"
+        },
+        "-MldLISifbG6b0G6fYlo": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/invasion-of-eirinn/main/character-sheets/creatures/images/druids-uthgardt/druid-chief-f.png",
+            "id": "-MldLISifbG6b0G6fYlo",
+            "name": "Druid-Archdruid Chief"
+        }
+    }
+}

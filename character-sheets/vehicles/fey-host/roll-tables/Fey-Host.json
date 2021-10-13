@@ -1,0 +1,32 @@
+{
+    "name": "Fey-Host",
+    "showplayers": false,
+    "id": "-Mltom7jh19mFNY1jHaW",
+    "items": {
+        "-MltoodLqZ80P5B6k8Kt": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/invasion-of-eirinn/main/character-sheets/vehicles/fey-host/lower-deck.webp",
+            "id": "-MltoodLqZ80P5B6k8Kt",
+            "name": "Lower Deck"
+        },
+        "-MltqG6ZTK0Z2dnPib6H": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/invasion-of-eirinn/main/character-sheets/vehicles/fey-host/cabin-deck.webp",
+            "id": "-MltqG6ZTK0Z2dnPib6H",
+            "name": "Cabin Rooms"
+        },
+        "-MltqK2wniLJlVDF4GUA": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/invasion-of-eirinn/main/character-sheets/vehicles/fey-host/higher-deck.webp",
+            "id": "-MltqK2wniLJlVDF4GUA",
+            "name": "Upper Deck and Castles"
+        },
+        "-MltqQMCjYTFJ60ptbLu": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/invasion-of-eirinn/main/character-sheets/vehicles/fey-host/sails-only.webp",
+            "id": "-MltqQMCjYTFJ60ptbLu",
+            "name": "Sails Only"
+        },
+        "-MltqUkVfKyi_ZJzMeuc": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/invasion-of-eirinn/main/character-sheets/vehicles/fey-host/ship-token.png",
+            "id": "-MltqUkVfKyi_ZJzMeuc",
+            "name": "Ship Token"
+        }
+    }
+}
