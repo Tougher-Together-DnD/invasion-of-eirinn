@@ -1,0 +1,107 @@
+{
+    "name": "Nautical-Rolltable",
+    "showplayers": false,
+    "id": "-MlvJdMNjjMcoZW90iGp",
+    "items": {
+        "-MlvJhOnzNswqoODrq3S": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/invasion-of-eirinn/main/collections/images/nautical/anchor.webp",
+            "id": "-MlvJhOnzNswqoODrq3S",
+            "name": "anchor"
+        },
+        "-MlvKATcM8P2eh-S3wHd": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/invasion-of-eirinn/main/collections/images/nautical/barrel-dark.webp",
+            "id": "-MlvKATcM8P2eh-S3wHd",
+            "name": "barrel-dark"
+        },
+        "-MlvKEC8zPyNSh8H99S0": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/invasion-of-eirinn/main/collections/images/nautical/barrel-fish.webp",
+            "id": "-MlvKEC8zPyNSh8H99S0",
+            "name": "barrel-fish"
+        },
+        "-MlvKJbg90p7pDyppiSm": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/invasion-of-eirinn/main/collections/images/nautical/barrel-light.webp",
+            "id": "-MlvKJbg90p7pDyppiSm",
+            "name": "barrel-light"
+        },
+        "-MlvKN2QjuXhU6C7nIg_": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/invasion-of-eirinn/main/collections/images/nautical/barrel-stacked.webp",
+            "id": "-MlvKN2QjuXhU6C7nIg_",
+            "name": "barrel-stacked"
+        },
+        "-MlvKR2sNewqtMes3ozK": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/invasion-of-eirinn/main/collections/images/nautical/bottles-loose.webp",
+            "id": "-MlvKR2sNewqtMes3ozK",
+            "name": "bottles-loose"
+        },
+        "-MlvKj-LgH7ITQootx9c": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/invasion-of-eirinn/main/collections/images/nautical/cannonballs-loose.webp",
+            "id": "-MlvKj-LgH7ITQootx9c",
+            "name": "cannonballs-loose"
+        },
+        "-MlvKlf8hz07m5nWJRqN": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/invasion-of-eirinn/main/collections/images/nautical/cannonballs-stacked.webp",
+            "id": "-MlvKlf8hz07m5nWJRqN",
+            "name": "cannonballs-stacked"
+        },
+        "-MlvKr5H3XquJgKAUi4H": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/invasion-of-eirinn/main/collections/images/nautical/cargo-barrels.webp",
+            "id": "-MlvKr5H3XquJgKAUi4H",
+            "name": "cargo-barrels"
+        },
+        "-MlvKxZSk1SIMZYJuydi": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/invasion-of-eirinn/main/collections/images/nautical/cargo-boxes.webp",
+            "id": "-MlvKxZSk1SIMZYJuydi",
+            "name": "cargo-boxes"
+        },
+        "-MlvL0lJQo4UptfjCPCL": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/invasion-of-eirinn/main/collections/images/nautical/chain-crank.webp",
+            "id": "-MlvL0lJQo4UptfjCPCL",
+            "name": "chain-hoist"
+        },
+        "-MlvL3Y1QiD_GmRMFp-E": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/invasion-of-eirinn/main/collections/images/nautical/chain.webp",
+            "id": "-MlvL3Y1QiD_GmRMFp-E",
+            "name": "chain"
+        },
+        "-MlvL7HyMkPFwyeC3Cww": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/invasion-of-eirinn/main/collections/images/nautical/fishing-stuff.webp",
+            "id": "-MlvL7HyMkPFwyeC3Cww",
+            "name": "fishing-spot"
+        },
+        "-MlvLCU3Rqmn4_Gn5G9h": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/invasion-of-eirinn/main/collections/images/nautical/hanging-meat.webp",
+            "id": "-MlvLCU3Rqmn4_Gn5G9h",
+            "name": "hanging-meat"
+        },
+        "-MlvLFqMh2vHFvuv1zHg": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/invasion-of-eirinn/main/collections/images/nautical/keg.webp",
+            "id": "-MlvLFqMh2vHFvuv1zHg",
+            "name": "keg"
+        },
+        "-MlvLJSVIIFuk7a1YtWI": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/invasion-of-eirinn/main/collections/images/nautical/ladder.webp",
+            "id": "-MlvLJSVIIFuk7a1YtWI",
+            "name": "ladder"
+        },
+        "-MlvLMi35GpH9fqhzCiV": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/invasion-of-eirinn/main/collections/images/nautical/net.webp",
+            "id": "-MlvLMi35GpH9fqhzCiV",
+            "name": "net"
+        },
+        "-MlvLPpVVw_TDWuqYDeL": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/invasion-of-eirinn/main/collections/images/nautical/plank.webp",
+            "id": "-MlvLPpVVw_TDWuqYDeL",
+            "name": "plank"
+        },
+        "-MlvLT56Vhpl3E3zlfzP": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/invasion-of-eirinn/main/collections/images/nautical/table-round.webp",
+            "id": "-MlvLT56Vhpl3E3zlfzP",
+            "name": "table-round"
+        },
+        "-MlvLWOwmQ0MI1IdANzv": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/invasion-of-eirinn/main/collections/images/nautical/table-square.webp",
+            "id": "-MlvLWOwmQ0MI1IdANzv",
+            "name": "table-square"
+        }
+    }
+}
